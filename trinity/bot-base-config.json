@@ -1,0 +1,42 @@
+{
+  "WorkingMap": 16,
+  "UseAdvJumpCpu": true,
+  "SelectedBotModuleType": 27,
+  "_OffensiveConfig": {
+    "DroneFormation": 5,
+    "Config": 1
+  },
+  "_RoamConfig": {
+    "DroneFormation": 1,
+    "Config": 2
+  },
+  "RandomizePreferredRegionWhenRoaming": true,
+  "EnableInOrderPreferredRegionTravel": false,
+  "_FleeConfig": {
+    "DroneFormation": 10,
+    "Config": 2
+  },
+  "_VeteranConfig": {
+    "DroneFormation": 10,
+    "Config": 1
+  },
+  "MinAttackTargetHpPercentageToUseVeteran": 20,
+  "RefreshEveryXMinutes": 10000,
+  "IsInstantRefreshEnabled": false,
+  "ReloadGameAfterLogout": true,
+  "ReconnectDelayMs": 2000,
+  "DefaultLaserOption": 1,
+  "DefaultRsbLaserOption": 0,
+  "DefaultRocketOption": 1,
+  "IsAutoRocketEnabled": true,
+  "DefaultRocketLauncherOption": -1,
+  "DefaultSlugOption": -1,
+  "IsAutoSlugEnabled": false,
+  "IsRaditionZoneAvoided": false,
+  "ReviveLocation": 0,
+  "ReviveOnBaseOnPlayerDeath": false,
+  "MaxNumDeaths": 20,
+  "MaxNumDeathsFromSameUserId": 4,
+  "IgnoreDeathsFromNpcs": false,
+  "PauseAfterDeathCountReachedMinutes": 60
+}
