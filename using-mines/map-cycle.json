@@ -1,0 +1,202 @@
+{
+  "NpcOption": 1,
+  "WaitBeforeMapChangeMs": 0,
+  "WaitForBotToFinishAttackingBeforeMapChange": false,
+  "MindfirePreparationTimeMs": 0,
+  "DelayAfterReconnect": 5000,
+  "SpawnPositionRadius": 50,
+  "AfterMapChangeDelayMs": 0,
+  "___MapCycleConfigs": [
+    {
+      "Map": 6,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 5,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 7,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 8,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 1,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 2,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 9,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 10,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 17,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 18,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 28,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 29,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 30,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 31,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 32,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 33,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 4,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 3,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 11,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 12,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 19,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 20,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 25,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 26,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 27,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 34,
+      "IsEnabled": true,
+      "Priority": 3
+    },
+    {
+      "Map": 35,
+      "IsEnabled": true,
+      "Priority": 1
+    },
+    {
+      "Map": 36,
+      "IsEnabled": true,
+      "Priority": 2
+    },
+    {
+      "Map": 16,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 24,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 15,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 23,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 21,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 14,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 13,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 22,
+      "IsEnabled": false,
+      "Priority": 0
+    }
+  ],
+  "MapCycle": [
+    {
+      "\u200C\u206E\u202B\u202E\u206A\u200C\u206B\u202D\u202B\u200C\u202A\u206F\u206B\u206C\u202B\u206E\u206C\u202C\u200C\u206C\u200E\u206B\u202D\u206E\u206A\u202B\u200C\u202E\u206E\u206A\u206C\u200F\u200E\u202C\u206C\u202C\u200E\u206D\u202A\u200D\u202E": 35
+    },
+    {
+      "\u200C\u206E\u202B\u202E\u206A\u200C\u206B\u202D\u202B\u200C\u202A\u206F\u206B\u206C\u202B\u206E\u206C\u202C\u200C\u206C\u200E\u206B\u202D\u206E\u206A\u202B\u200C\u202E\u206E\u206A\u206C\u200F\u200E\u202C\u206C\u202C\u200E\u206D\u202A\u200D\u202E": 36
+    },
+    {
+      "\u200C\u206E\u202B\u202E\u206A\u200C\u206B\u202D\u202B\u200C\u202A\u206F\u206B\u206C\u202B\u206E\u206C\u202C\u200C\u206C\u200E\u206B\u202D\u206E\u206A\u202B\u200C\u202E\u206E\u206A\u206C\u200F\u200E\u202C\u206C\u202C\u200E\u206D\u202A\u200D\u202E": 34
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "IsEnabled": true,
+  "MinimumCargoPercentageToSell": 100,
+  "TradeableOreConfigs": [
+    {
+      "OreType": 0,
+      "ShouldSell": false
+    },
+    {
+      "OreType": 1,
+      "ShouldSell": false
+    },
+    {
+      "OreType": 2,
+      "ShouldSell": false
+    },
+    {
+      "OreType": 4,
+      "ShouldSell": false
+    },
+    {
+      "OreType": 5,
+      "ShouldSell": false
+    },
+    {
+      "OreType": 6,
+      "ShouldSell": false
+    },
+    {
+      "OreType": 8,
+      "ShouldSell": false
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "UseKamikaze": false,
+  "PressKeyWhileKamikaze": null,
+  "ShootNpcsWhileKamikaze": true,
+  "InstantRefreshOnCompletion": false
+}

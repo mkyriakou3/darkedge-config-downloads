@@ -1,0 +1,109 @@
+{
+  "IsEnabled": true,
+  "NovaVeteranStrategy": 2,
+  "NovaTravelStrategy": 3,
+  "EntryConfigs": [
+    {
+      "PerkNameDisplay": "sp_mission-points-gp",
+      "PerkName": "perk_sp_mission-points-gp",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "general_honour",
+      "PerkName": "perk_general_honour",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "gg_rocket-damage",
+      "PerkName": "perk_gg_rocket-damage",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "pet_heat-up",
+      "PerkName": "perk_pet_heat-up",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "general_experience",
+      "PerkName": "perk_general_experience",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "general_cargo",
+      "PerkName": "perk_general_cargo",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "pet_fuel-consumption",
+      "PerkName": "perk_pet_fuel-consumption",
+      "IsEnabled": true,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "gg_speed",
+      "PerkName": "perk_gg_speed",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "gg_laser-damage",
+      "PerkName": "perk_gg_laser-damage",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "sp_mission-points",
+      "PerkName": "perk_sp_mission-points",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "gg_shield",
+      "PerkName": "perk_gg_shield",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "gg_evasion",
+      "PerkName": "perk_gg_evasion",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "pet_range-up",
+      "PerkName": "perk_pet_range-up",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "gg_completion-experience",
+      "PerkName": "perk_gg_completion-experience",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "pet_hp",
+      "PerkName": "perk_pet_hp",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "gg_npc-uridium",
+      "PerkName": "perk_gg_npc-uridium",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "PerkNameDisplay": "general_bonus-box-uridium",
+      "PerkName": "perk_general_bonus-box-uridium",
+      "IsEnabled": false,
+      "Priority": 0
+    }
+  ]
+}
