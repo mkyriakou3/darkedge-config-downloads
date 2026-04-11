@@ -1,0 +1,1817 @@
+{
+  "AvoidedRegions": {
+    "5": [
+      {
+        "RegionKey": "75005000",
+        "StartX": 7500,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "6": [],
+    "7": [],
+    "223": [],
+    "8": [],
+    "14": [],
+    "16": [],
+    "21": [],
+    "22": [],
+    "24": [],
+    "307": [],
+    "23": [],
+    "71": [],
+    "72": [],
+    "73": [],
+    "51": [],
+    "93": [],
+    "70": [],
+    "75": [],
+    "53": [],
+    "29": [],
+    "433": [],
+    "442": [],
+    "441": [],
+    "92": [],
+    "430": [],
+    "431": [],
+    "439": [],
+    "438": [],
+    "437": [],
+    "445": [],
+    "444": [],
+    "440": [],
+    "1": [],
+    "2": [],
+    "4": [],
+    "13": [],
+    "17": [],
+    "19": [],
+    "20": [],
+    "18": [],
+    "28": [],
+    "26": [],
+    "27": [],
+    "25": [],
+    "434": [],
+    "3": [],
+    "11": [],
+    "12": [],
+    "15": [],
+    "435": [],
+    "436": [],
+    "229": [],
+    "432": [],
+    "306": [],
+    "308": [],
+    "464": [],
+    "414": [],
+    "466": [],
+    "473": [],
+    "10": [],
+    "52": []
+  },
+  "PreferredRegions": {
+    "5": [
+      {
+        "RegionKey": "20002500",
+        "StartX": 2000,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "35008000",
+        "StartX": 3500,
+        "StartY": 8000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "110001000",
+        "StartX": 11000,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "1600011000",
+        "StartX": 16000,
+        "StartY": 11000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "6": [],
+    "7": [
+      {
+        "RegionKey": "15008500",
+        "StartX": 1500,
+        "StartY": 8500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "30002000",
+        "StartX": 3000,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "950010500",
+        "StartX": 9500,
+        "StartY": 10500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "145003000",
+        "StartX": 14500,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "223": [],
+    "8": [],
+    "14": [
+      {
+        "RegionKey": "50003500",
+        "StartX": 5000,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "50009000",
+        "StartX": 5000,
+        "StartY": 9000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165003500",
+        "StartX": 16500,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165009000",
+        "StartX": 16500,
+        "StartY": 9000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "16": [],
+    "21": [],
+    "22": [
+      {
+        "RegionKey": "55004000",
+        "StartX": 5500,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "55009500",
+        "StartX": 5500,
+        "StartY": 9500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "135004000",
+        "StartX": 13500,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "135009500",
+        "StartX": 13500,
+        "StartY": 9500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "24": [],
+    "307": [],
+    "23": [
+      {
+        "RegionKey": "30008500",
+        "StartX": 3000,
+        "StartY": 8500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "40002500",
+        "StartX": 4000,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "1300011500",
+        "StartX": 13000,
+        "StartY": 11500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "160002000",
+        "StartX": 16000,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "71": [],
+    "72": [],
+    "73": [],
+    "51": [],
+    "93": [],
+    "70": [],
+    "75": [],
+    "53": [],
+    "29": [],
+    "433": [],
+    "442": [],
+    "441": [],
+    "92": [],
+    "430": [],
+    "431": [],
+    "439": [],
+    "438": [],
+    "437": [],
+    "445": [],
+    "444": [],
+    "440": [],
+    "1": [],
+    "2": [],
+    "4": [],
+    "13": [
+      {
+        "RegionKey": "45003000",
+        "StartX": 4500,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "45009500",
+        "StartX": 4500,
+        "StartY": 9500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "155003000",
+        "StartX": 15500,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "155009500",
+        "StartX": 15500,
+        "StartY": 9500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "17": [],
+    "19": [
+      {
+        "RegionKey": "40001000",
+        "StartX": 4000,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756009982949337
+      },
+      {
+        "RegionKey": "90001000",
+        "StartX": 9000,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756009988493242
+      },
+      {
+        "RegionKey": "135001000",
+        "StartX": 13500,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756009994696754
+      },
+      {
+        "RegionKey": "165001000",
+        "StartX": 16500,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010001871487
+      },
+      {
+        "RegionKey": "190005000",
+        "StartX": 19000,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010012934810
+      },
+      {
+        "RegionKey": "190009500",
+        "StartX": 19000,
+        "StartY": 9500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010018547785
+      },
+      {
+        "RegionKey": "1900012000",
+        "StartX": 19000,
+        "StartY": 12000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010024411847
+      },
+      {
+        "RegionKey": "1350011500",
+        "StartX": 13500,
+        "StartY": 11500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010030291708
+      },
+      {
+        "RegionKey": "900012000",
+        "StartX": 9000,
+        "StartY": 12000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010030291708
+      },
+      {
+        "RegionKey": "450012000",
+        "StartX": 4500,
+        "StartY": 12000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010043573275
+      },
+      {
+        "RegionKey": "150012000",
+        "StartX": 1500,
+        "StartY": 12000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010057632800
+      },
+      {
+        "RegionKey": "15009500",
+        "StartX": 1500,
+        "StartY": 9500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010066598467
+      },
+      {
+        "RegionKey": "15005000",
+        "StartX": 1500,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638756010072895027
+      }
+    ],
+    "20": [
+      {
+        "RegionKey": "15001000",
+        "StartX": 1500,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "90001000",
+        "StartX": 9000,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "145001000",
+        "StartX": 14500,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195005000",
+        "StartX": 19500,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195009500",
+        "StartX": 19500,
+        "StartY": 9500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "150012000",
+        "StartX": 1500,
+        "StartY": 12000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "650012000",
+        "StartX": 6500,
+        "StartY": 12000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "1450012000",
+        "StartX": 14500,
+        "StartY": 12000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "18": [
+      {
+        "RegionKey": "20002500",
+        "StartX": 2000,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "70001500",
+        "StartX": 7000,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960303260509
+      },
+      {
+        "RegionKey": "155001500",
+        "StartX": 15500,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960308760456
+      },
+      {
+        "RegionKey": "185005500",
+        "StartX": 18500,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960314040509
+      },
+      {
+        "RegionKey": "185009000",
+        "StartX": 18500,
+        "StartY": 9000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960324300523
+      },
+      {
+        "RegionKey": "1450012500",
+        "StartX": 14500,
+        "StartY": 12500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960333490725
+      },
+      {
+        "RegionKey": "650012500",
+        "StartX": 6500,
+        "StartY": 12500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960339350576
+      },
+      {
+        "RegionKey": "20007000",
+        "StartX": 2000,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960346320669
+      },
+      {
+        "RegionKey": "70004000",
+        "StartX": 7000,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960353190562
+      },
+      {
+        "RegionKey": "65009000",
+        "StartX": 6500,
+        "StartY": 9000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960359140488
+      },
+      {
+        "RegionKey": "110009000",
+        "StartX": 11000,
+        "StartY": 9000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960365510496
+      },
+      {
+        "RegionKey": "105004000",
+        "StartX": 10500,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960371130712
+      },
+      {
+        "RegionKey": "155004000",
+        "StartX": 15500,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960378600640
+      },
+      {
+        "RegionKey": "155009000",
+        "StartX": 15500,
+        "StartY": 9000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 638836960384490604
+      }
+    ],
+    "28": [
+      {
+        "RegionKey": "50007000",
+        "StartX": 5000,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165007000",
+        "StartX": 16500,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "26": [],
+    "27": [
+      {
+        "RegionKey": "60006000",
+        "StartX": 6000,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "155006000",
+        "StartX": 15500,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "25": [],
+    "434": [],
+    "3": [],
+    "11": [],
+    "12": [],
+    "15": [
+      {
+        "RegionKey": "45004000",
+        "StartX": 4500,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "45009000",
+        "StartX": 4500,
+        "StartY": 9000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "155003500",
+        "StartX": 15500,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "155008500",
+        "StartX": 15500,
+        "StartY": 8500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "435": [],
+    "436": [],
+    "229": [],
+    "432": [],
+    "306": [],
+    "308": [
+      {
+        "RegionKey": "160003000",
+        "StartX": 16000,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "160003500",
+        "StartX": 16000,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "160004000",
+        "StartX": 16000,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "160004500",
+        "StartX": 16000,
+        "StartY": 4500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "160005000",
+        "StartX": 16000,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "160005500",
+        "StartX": 16000,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "160006000",
+        "StartX": 16000,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "160006500",
+        "StartX": 16000,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "160007000",
+        "StartX": 16000,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165001000",
+        "StartX": 16500,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165001500",
+        "StartX": 16500,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165002000",
+        "StartX": 16500,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165002500",
+        "StartX": 16500,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165003000",
+        "StartX": 16500,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165003500",
+        "StartX": 16500,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165004000",
+        "StartX": 16500,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165004500",
+        "StartX": 16500,
+        "StartY": 4500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165005000",
+        "StartX": 16500,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165005500",
+        "StartX": 16500,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165006000",
+        "StartX": 16500,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165006500",
+        "StartX": 16500,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "165007000",
+        "StartX": 16500,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "17000500",
+        "StartX": 17000,
+        "StartY": 500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170001000",
+        "StartX": 17000,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170001500",
+        "StartX": 17000,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170002000",
+        "StartX": 17000,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170002500",
+        "StartX": 17000,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170003000",
+        "StartX": 17000,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170003500",
+        "StartX": 17000,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170004000",
+        "StartX": 17000,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170004500",
+        "StartX": 17000,
+        "StartY": 4500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170005000",
+        "StartX": 17000,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170005500",
+        "StartX": 17000,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170006000",
+        "StartX": 17000,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170006500",
+        "StartX": 17000,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "170007000",
+        "StartX": 17000,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "17500500",
+        "StartX": 17500,
+        "StartY": 500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175001000",
+        "StartX": 17500,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175001500",
+        "StartX": 17500,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175002000",
+        "StartX": 17500,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175002500",
+        "StartX": 17500,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175003000",
+        "StartX": 17500,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175003500",
+        "StartX": 17500,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175004000",
+        "StartX": 17500,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175004500",
+        "StartX": 17500,
+        "StartY": 4500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175005000",
+        "StartX": 17500,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175005500",
+        "StartX": 17500,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175006000",
+        "StartX": 17500,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175006500",
+        "StartX": 17500,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "175007000",
+        "StartX": 17500,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "18000500",
+        "StartX": 18000,
+        "StartY": 500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180001000",
+        "StartX": 18000,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180001500",
+        "StartX": 18000,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180002000",
+        "StartX": 18000,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180002500",
+        "StartX": 18000,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180003000",
+        "StartX": 18000,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180003500",
+        "StartX": 18000,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180004000",
+        "StartX": 18000,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180004500",
+        "StartX": 18000,
+        "StartY": 4500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180005000",
+        "StartX": 18000,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180005500",
+        "StartX": 18000,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180006000",
+        "StartX": 18000,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180006500",
+        "StartX": 18000,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "180007000",
+        "StartX": 18000,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "18500500",
+        "StartX": 18500,
+        "StartY": 500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185001000",
+        "StartX": 18500,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185001500",
+        "StartX": 18500,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185002000",
+        "StartX": 18500,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185002500",
+        "StartX": 18500,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185003000",
+        "StartX": 18500,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185003500",
+        "StartX": 18500,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185004000",
+        "StartX": 18500,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185004500",
+        "StartX": 18500,
+        "StartY": 4500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185005000",
+        "StartX": 18500,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185005500",
+        "StartX": 18500,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185006000",
+        "StartX": 18500,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185006500",
+        "StartX": 18500,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "185007000",
+        "StartX": 18500,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "19000500",
+        "StartX": 19000,
+        "StartY": 500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190001000",
+        "StartX": 19000,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190001500",
+        "StartX": 19000,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190002000",
+        "StartX": 19000,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190002500",
+        "StartX": 19000,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190003000",
+        "StartX": 19000,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190003500",
+        "StartX": 19000,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190004000",
+        "StartX": 19000,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190004500",
+        "StartX": 19000,
+        "StartY": 4500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190005000",
+        "StartX": 19000,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190005500",
+        "StartX": 19000,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190006000",
+        "StartX": 19000,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190006500",
+        "StartX": 19000,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "190007000",
+        "StartX": 19000,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "19500500",
+        "StartX": 19500,
+        "StartY": 500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195001000",
+        "StartX": 19500,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195001500",
+        "StartX": 19500,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195002000",
+        "StartX": 19500,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195002500",
+        "StartX": 19500,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195003000",
+        "StartX": 19500,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195003500",
+        "StartX": 19500,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195004000",
+        "StartX": 19500,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195004500",
+        "StartX": 19500,
+        "StartY": 4500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195005000",
+        "StartX": 19500,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195005500",
+        "StartX": 19500,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195006000",
+        "StartX": 19500,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195006500",
+        "StartX": 19500,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "195007000",
+        "StartX": 19500,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "20000500",
+        "StartX": 20000,
+        "StartY": 500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200001000",
+        "StartX": 20000,
+        "StartY": 1000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200001500",
+        "StartX": 20000,
+        "StartY": 1500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200002000",
+        "StartX": 20000,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200002500",
+        "StartX": 20000,
+        "StartY": 2500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200003000",
+        "StartX": 20000,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200003500",
+        "StartX": 20000,
+        "StartY": 3500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200004000",
+        "StartX": 20000,
+        "StartY": 4000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200004500",
+        "StartX": 20000,
+        "StartY": 4500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200005000",
+        "StartX": 20000,
+        "StartY": 5000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200005500",
+        "StartX": 20000,
+        "StartY": 5500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200006000",
+        "StartX": 20000,
+        "StartY": 6000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200006500",
+        "StartX": 20000,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "200007000",
+        "StartX": 20000,
+        "StartY": 7000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "464": [],
+    "414": [],
+    "466": [],
+    "473": [],
+    "10": [],
+    "52": []
+  },
+  "SafetyRegions": {
+    "92": [],
+    "93": [],
+    "16": [],
+    "21": [],
+    "29": [],
+    "91": [],
+    "5": [],
+    "6": [],
+    "8": [],
+    "227": [],
+    "231": [],
+    "234": [],
+    "235": [],
+    "23": [],
+    "14": [],
+    "22": [],
+    "24": [],
+    "307": [],
+    "463": [],
+    "460": [],
+    "465": [],
+    "51": [],
+    "52": [],
+    "53": [],
+    "71": [],
+    "72": [],
+    "73": [],
+    "70": [],
+    "75": [],
+    "433": [],
+    "442": [],
+    "441": [],
+    "7": [],
+    "430": [],
+    "431": [],
+    "439": [],
+    "438": [],
+    "437": [],
+    "445": [],
+    "444": [],
+    "440": [],
+    "1": [],
+    "2": [],
+    "4": [],
+    "13": [],
+    "17": [],
+    "19": [],
+    "20": [],
+    "18": [],
+    "28": [],
+    "26": [],
+    "27": [],
+    "25": [],
+    "434": [],
+    "3": [],
+    "11": [],
+    "12": [],
+    "15": [],
+    "435": [],
+    "436": [],
+    "229": [],
+    "432": [],
+    "306": [],
+    "308": [],
+    "464": [],
+    "414": [],
+    "466": [],
+    "473": [],
+    "10": []
+  },
+  "DragRegions": {
+    "92": [],
+    "24": [
+      {
+        "RegionKey": "120002000",
+        "StartX": 12000,
+        "StartY": 2000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "93": [],
+    "22": [],
+    "5": [],
+    "51": [],
+    "6": [],
+    "71": [],
+    "72": [],
+    "73": [],
+    "70": [],
+    "75": [],
+    "53": [],
+    "23": [
+      {
+        "RegionKey": "55003000",
+        "StartX": 5500,
+        "StartY": 3000,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      },
+      {
+        "RegionKey": "125007500",
+        "StartX": 12500,
+        "StartY": 7500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "21": [],
+    "29": [],
+    "16": [],
+    "433": [],
+    "442": [],
+    "8": [],
+    "14": [],
+    "441": [],
+    "7": [],
+    "430": [],
+    "431": [],
+    "439": [],
+    "438": [],
+    "437": [],
+    "445": [],
+    "444": [],
+    "440": [],
+    "1": [],
+    "2": [],
+    "4": [],
+    "13": [],
+    "17": [],
+    "19": [],
+    "20": [],
+    "18": [],
+    "28": [
+      {
+        "RegionKey": "100006500",
+        "StartX": 10000,
+        "StartY": 6500,
+        "Height": 500,
+        "Width": 500,
+        "TicksSelectedAt": 0
+      }
+    ],
+    "26": [],
+    "27": [],
+    "25": [],
+    "434": [],
+    "3": [],
+    "11": [],
+    "12": [],
+    "15": [],
+    "435": [],
+    "436": [],
+    "229": [],
+    "432": [],
+    "306": [],
+    "307": [],
+    "308": [],
+    "464": [],
+    "414": [],
+    "466": [],
+    "473": [],
+    "10": [],
+    "52": []
+  }
+}

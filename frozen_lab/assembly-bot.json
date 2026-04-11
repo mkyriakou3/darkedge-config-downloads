@@ -1,0 +1,115 @@
+{
+  "IsEnabled": true,
+  "AssemblyBuildOptionConfigs": [
+    {
+      "RecipeLootId": "recipe_blueprint-rsb75-blacklight",
+      "ShouldBuild": true,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": true
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-seprom-blacklight",
+      "ShouldBuild": true,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": true,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-tech-energyleech",
+      "ShouldBuild": true,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": true,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-a-bl-laser-ammo",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-astral-cpu",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-booty-key-silver",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-eternal-cpu",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-ggeu",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-immunizer-cpu",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-tech-backupshield",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "RecipeLootId": "recipe_blueprint-tech-battlerepairbot",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    }
+  ]
+}

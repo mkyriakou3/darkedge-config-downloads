@@ -1,0 +1,29 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "",
+      "IsEnabled": true,
+      "MenuItemId": "",
+      "PressEveryMs": 1300,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Turret",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "",
+      "IsEnabled": false,
+      "MenuItemId": "",
+      "PressEveryMs": 5500,
+      "WhenHeroHpPercentageBelow": 60,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "UberKristallon",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    }
+  ]
+}

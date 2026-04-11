@@ -1,0 +1,7 @@
+{
+  "IsEnabled": false,
+  "IsBuyX1Enabled": true,
+  "IsBuyR310Enabled": true,
+  "IsBuyPLT2026Enabled": true,
+  "CheckEveryMs": 5000
+}

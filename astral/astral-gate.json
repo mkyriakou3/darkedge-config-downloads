@@ -1,0 +1,10 @@
+{
+  "EnableAutoAdjustEquipment": true,
+  "SelectedAstralShipChoice": 3,
+  "EnableSurvivalMode": false,
+  "MinShieldPercentageToRepairAt": 30,
+  "_SpeedSlotPercentage": 50,
+  "PreferredMapQuadrant": 0,
+  "AllowRefreshInsideGate": true,
+  "EnableCraftKeysWhenLow": true
+}

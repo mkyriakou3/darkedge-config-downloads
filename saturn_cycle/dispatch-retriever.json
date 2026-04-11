@@ -1,0 +1,174 @@
+{
+  "IsEnabled": true,
+  "CheckEveryMs": 5000,
+  "RetrieverSlotConfigs": [
+    {
+      "Id": 13,
+      "Name": "R-01",
+      "ShouldSend": true,
+      "IsInstantCollect": false,
+      "Tier": "1",
+      "Duration": "03:00:00"
+    },
+    {
+      "Id": 14,
+      "Name": "R-02",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "2",
+      "Duration": "06:00:00"
+    },
+    {
+      "Id": 17,
+      "Name": "R-05",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "5",
+      "Duration": "12:00:00"
+    },
+    {
+      "Id": 18,
+      "Name": "R-06",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "6",
+      "Duration": "12:00:00"
+    },
+    {
+      "Id": 1,
+      "Name": "A-01",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "1",
+      "Duration": "03:00:00"
+    },
+    {
+      "Id": 2,
+      "Name": "A-02",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "2",
+      "Duration": "06:00:00"
+    },
+    {
+      "Id": 3,
+      "Name": "A-03",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "3",
+      "Duration": "06:00:00"
+    },
+    {
+      "Id": 4,
+      "Name": "A-04",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "4",
+      "Duration": "09:00:00"
+    },
+    {
+      "Id": 5,
+      "Name": "A-05",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "5",
+      "Duration": "12:00:00"
+    },
+    {
+      "Id": 6,
+      "Name": "A-06",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "6",
+      "Duration": "12:00:00"
+    },
+    {
+      "Id": 7,
+      "Name": "B-01",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "1",
+      "Duration": "03:00:00"
+    },
+    {
+      "Id": 8,
+      "Name": "B-02",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "2",
+      "Duration": "06:00:00"
+    },
+    {
+      "Id": 9,
+      "Name": "B-03",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "3",
+      "Duration": "06:00:00"
+    },
+    {
+      "Id": 10,
+      "Name": "B-04",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "4",
+      "Duration": "09:00:00"
+    },
+    {
+      "Id": 11,
+      "Name": "B-05",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "5",
+      "Duration": "12:00:00"
+    },
+    {
+      "Id": 12,
+      "Name": "B-06",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "6",
+      "Duration": "12:00:00"
+    },
+    {
+      "Id": 19,
+      "Name": "H-03",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "3",
+      "Duration": "05:00:00"
+    },
+    {
+      "Id": 20,
+      "Name": "H-04",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "4",
+      "Duration": "07:00:00"
+    },
+    {
+      "Id": 21,
+      "Name": "H-05",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "5",
+      "Duration": "09:00:00"
+    },
+    {
+      "Id": 15,
+      "Name": "R-03",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "3",
+      "Duration": "06:00:00"
+    },
+    {
+      "Id": 16,
+      "Name": "R-04",
+      "ShouldSend": false,
+      "IsInstantCollect": false,
+      "Tier": "4",
+      "Duration": "09:00:00"
+    }
+  ]
+}

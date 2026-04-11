@@ -1,0 +1,6 @@
+{
+  "IsEnabled": false,
+  "MinHpPercentageToUseCpu": 90,
+  "AutoMarkChaosNpcsWithKillFlag": true,
+  "OnlyUseCpuWhenNoPlayersInSight": true
+}

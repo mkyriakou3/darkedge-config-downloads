@@ -1,0 +1,5 @@
+{
+  "IsEnabled": false,
+  "CheckEveryMs": 10000,
+  "RetrieverSlotConfigs": []
+}

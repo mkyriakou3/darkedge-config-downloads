@@ -1,0 +1,8 @@
+{
+  "UsePet": true,
+  "RepairPetWhenDestroyed": true,
+  "IsBuyPetFuelEnabled": true,
+  "GearToUse": 5,
+  "UseHpLink": false,
+  "MaxHpPercentageToUseHpLink": 60
+}

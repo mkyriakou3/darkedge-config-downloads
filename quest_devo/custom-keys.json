@@ -1,0 +1,41 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "equipment_extra_cpu_ish-01",
+      "IsEnabled": true,
+      "MenuItemId": "equipment_extra_cpu_ish-01",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 70,
+      "WhenHeroShieldPercentageBelow": 100,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "ammunition_specialammo_emp-01",
+      "IsEnabled": true,
+      "MenuItemId": "ammunition_specialammo_emp-01",
+      "PressEveryMs": 1650,
+      "WhenHeroHpPercentageBelow": 40,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "",
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "tech_energy-leech",
+      "IsEnabled": true,
+      "MenuItemId": "tech_energy-leech",
+      "PressEveryMs": 250,
+      "WhenHeroHpPercentageBelow": 40,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false
+    }
+  ]
+}

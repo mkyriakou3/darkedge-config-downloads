@@ -1,0 +1,54 @@
+{
+  "IsEnabled": false,
+  "UseEEOnly": false,
+  "SelectedGalaxyGateSpinOption": 1,
+  "MaxSpinCost": 70,
+  "MinUriToSpin": 0,
+  "DelayBetweenSpinsMs": 100,
+  "GGSpinnerStates": [
+    {
+      "ShouldBuildGate": true,
+      "SavedMapId": 51
+    },
+    {
+      "ShouldBuildGate": true,
+      "SavedMapId": 52
+    },
+    {
+      "ShouldBuildGate": true,
+      "SavedMapId": 53
+    },
+    {
+      "ShouldBuildGate": false,
+      "SavedMapId": 55
+    },
+    {
+      "ShouldBuildGate": false,
+      "SavedMapId": 70
+    },
+    {
+      "ShouldBuildGate": false,
+      "SavedMapId": 71
+    },
+    {
+      "ShouldBuildGate": false,
+      "SavedMapId": 74
+    },
+    {
+      "ShouldBuildGate": false,
+      "SavedMapId": 75
+    },
+    {
+      "ShouldBuildGate": false,
+      "SavedMapId": 76
+    },
+    {
+      "ShouldBuildGate": false,
+      "SavedMapId": 203
+    },
+    {
+      "ShouldBuildGate": false,
+      "SavedMapId": 300
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "2025-08-20T11:09:24.4053278Z",
+      "Name": "ammunition_specialammo_emp-01",
+      "IsEnabled": true,
+      "MenuItemId": "ammunition_specialammo_emp-01",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 40,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "equipment_extra_cpu_ish-01",
+      "IsEnabled": true,
+      "MenuItemId": "equipment_extra_cpu_ish-01",
+      "PressEveryMs": 1300,
+      "WhenHeroHpPercentageBelow": 60,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "ability_orcus_assimilate",
+      "IsEnabled": true,
+      "MenuItemId": "ability_orcus_assimilate",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 70,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    }
+  ]
+}

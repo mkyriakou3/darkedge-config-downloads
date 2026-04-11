@@ -1,0 +1,38 @@
+{
+  "___SinglePlayerConfigs": [
+    {
+      "Name": "Halcyon-01",
+      "UserIdDisplay": "173069712",
+      "UserId": 173069712,
+      "ShouldSendInvitesTo": false,
+      "ShouldAcceptInvitesFrom": false,
+      "IsFollowEnabled": false,
+      "MoveInCircle": false,
+      "Radius": 0,
+      "ShouldDefendFromNpcs": false,
+      "ShouldDefendFromPlayers": false,
+      "IsAggressiveDefendFolloweeEnabled": false,
+      "ShouldAssistWithNpcs": false,
+      "ShouldAssistWithPlayers": false,
+      "NoSab": false,
+      "Laser": -1,
+      "Rocket": -1,
+      "DroneFormation": 0,
+      "IsVeteranEnabled": false,
+      "IsRSBEnabled": false
+    }
+  ],
+  "DiscoveredUsernameToUserId": {
+    "GoldenMoon": 173088913,
+    "...::SMOKE420::...": 173068023,
+    "xKralTR": 173073623,
+    "xsaviercoxik": 173072999,
+    "TCSPADES2": 173063832,
+    "Pussat__PLUS": 173073707,
+    "hAg0zA": 173093027,
+    "KooO": 173063450,
+    "Szpilook": 173066962,
+    "useyin": 173066473,
+    "Kueqs": 173090529
+  }
+}

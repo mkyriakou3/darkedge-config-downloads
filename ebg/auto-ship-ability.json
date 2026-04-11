@@ -1,0 +1,5 @@
+{
+  "IsAegisEnabled": true,
+  "MinHpPercentageToUseHealthRepair": 70,
+  "MinShieldPercentageToUseShieldRepair": 0
+}

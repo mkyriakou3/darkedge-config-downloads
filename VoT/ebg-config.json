@@ -1,0 +1,43 @@
+{
+  "JumpOutAtWave": 0,
+  "SuicideWaveNumber": 99999,
+  "PreferredMapQuadrant": 0,
+  "UseEnergyLeach": false,
+  "WaveToRepeatEnergyLeachAt": 0,
+  "DisableEnergLeachFirstWave": true,
+  "AllowRefreshInsideGate": true,
+  "EbgBoosterConfigs": [
+    {
+      "BoosterType": 0,
+      "Priority": 0
+    },
+    {
+      "BoosterType": 1,
+      "Priority": 0
+    },
+    {
+      "BoosterType": 2,
+      "Priority": 0
+    },
+    {
+      "BoosterType": 3,
+      "Priority": 0
+    },
+    {
+      "BoosterType": 4,
+      "Priority": 0
+    },
+    {
+      "BoosterType": 5,
+      "Priority": 0
+    },
+    {
+      "BoosterType": 6,
+      "Priority": 0
+    },
+    {
+      "BoosterType": 7,
+      "Priority": 0
+    }
+  ]
+}

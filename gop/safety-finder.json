@@ -1,0 +1,18 @@
+{
+  "ShouldRunFromEnemies": false,
+  "ShouldRunFromEnemiesInSight": false,
+  "StopRunningWhenLostSight": false,
+  "RepairDistance": 3000,
+  "MaxSightDistance": 2000,
+  "MinHpPercentageToRepair": 0,
+  "HpPercentageToStopRepairing": 0,
+  "ShieldPercentageToStopRepairing": 0,
+  "_RepairHeroConfig": {
+    "DroneFormation": 1,
+    "Config": 2
+  },
+  "AvoidEnemyCbs": true,
+  "AvoidMines": true,
+  "WaitTimeAfterReviveMs": 25000,
+  "MaximumSamePlayerKills": 9
+}

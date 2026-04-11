@@ -1,0 +1,642 @@
+{
+  "WaitForPetToCollectBoxTimeoutMs": 12000,
+  "IgnoreContestedBoxes": true,
+  "IsCollectCargoOnlyFromMarkedSourcesEnabled": false,
+  "CollectableConfigs": [
+    {
+      "Name": "ALIEN_EGG",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "Name": "LUCENT_ALIEN_EGG_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "Name": "PURPLE_ECHO_BOX",
+      "Priority": 0,
+      "Collect": true,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        229,
+        473
+      ]
+    },
+    {
+      "Name": "BLUE_ECHO_BOX",
+      "Priority": 0,
+      "Collect": true,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        229,
+        473
+      ]
+    },
+    {
+      "Name": "RED_ECHO_BOX",
+      "Priority": 0,
+      "Collect": true,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        229
+      ]
+    },
+    {
+      "Name": "GREEN_ECHO_BOX",
+      "Priority": 0,
+      "Collect": true,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        229,
+        473
+      ]
+    },
+    {
+      "Name": "SCRAPIUM",
+      "Priority": 0,
+      "Collect": true,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        463,
+        465,
+        464,
+        462,
+        461,
+        460,
+        29,
+        3,
+        4
+      ]
+    },
+    {
+      "Name": "FROM_SHIP",
+      "Priority": -500,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        307,
+        463,
+        465,
+        308,
+        464,
+        28,
+        462,
+        461,
+        24,
+        460,
+        306,
+        20,
+        4,
+        2,
+        19,
+        17,
+        18,
+        1,
+        29,
+        435,
+        441,
+        438,
+        430,
+        3
+      ]
+    },
+    {
+      "Name": "PROSPEROUS_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "Name": "STYXUS_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        20
+      ]
+    },
+    {
+      "Name": "SOLAR_CLASH",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        20,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "Name": "BOLTRUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        463,
+        465,
+        462,
+        461,
+        464,
+        460,
+        3
+      ]
+    },
+    {
+      "Name": "AGATUS_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "CANDY_CARGO",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        22
+      ]
+    },
+    {
+      "Name": "FRIGHTFUL_CURCUBITOR_BOSS_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "CURCUBITOR_BOSS_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "DEMON_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "CURCUBITOR_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "MINI_PUMPKIN",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        8,
+        14,
+        22
+      ]
+    },
+    {
+      "Name": "PRISMATIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        465,
+        462,
+        463,
+        461,
+        464,
+        460,
+        29
+      ]
+    },
+    {
+      "Name": "AURUS_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        465,
+        462,
+        463,
+        461,
+        464,
+        460,
+        13
+      ]
+    },
+    {
+      "Name": "BIFENON",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        463,
+        465,
+        462,
+        461,
+        464,
+        460
+      ]
+    },
+    {
+      "Name": "MUCOSUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        463,
+        465,
+        464,
+        462,
+        461,
+        460,
+        29,
+        3,
+        4
+      ]
+    },
+    {
+      "Name": "EMPYRIAN_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        24,
+        3,
+        4
+      ]
+    },
+    {
+      "Name": "INVOKE_XVI_BOX_2",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        307
+      ]
+    },
+    {
+      "Name": "LUMINIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        24,
+        4,
+        3
+      ]
+    },
+    {
+      "Name": "BLACK_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        8,
+        14,
+        22,
+        24,
+        20,
+        19,
+        17,
+        16,
+        13,
+        4,
+        2,
+        18,
+        3
+      ]
+    },
+    {
+      "Name": "BLACKLIGHT-CRYPT",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "PIRATE_BOOTY_GOLD",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        24,
+        20,
+        17,
+        13,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "Name": "BATTLEPASS",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        8,
+        22,
+        24,
+        28,
+        20,
+        18,
+        17,
+        16,
+        4,
+        2,
+        19,
+        13,
+        3
+      ]
+    },
+    {
+      "Name": "PIRATE_BOOTY_RED",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        28,
+        308,
+        18,
+        17,
+        16,
+        13,
+        4,
+        2,
+        20,
+        19,
+        3
+      ]
+    },
+    {
+      "Name": "PIRATE_BOOTY_BLUE",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        28,
+        308,
+        13,
+        4,
+        2,
+        20,
+        19,
+        17,
+        16,
+        18,
+        3
+      ]
+    },
+    {
+      "Name": "BONUS_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        5,
+        8,
+        14,
+        22,
+        24,
+        28,
+        20,
+        1,
+        18,
+        17,
+        13,
+        4,
+        2,
+        19,
+        21,
+        3
+      ]
+    },
+    {
+      "Name": "PALLADIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "ASTRAL_PRIME_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        24,
+        28,
+        20,
+        18,
+        19,
+        17,
+        16,
+        13,
+        29
+      ]
+    },
+    {
+      "Name": "PIRATE_BOOTY",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        8,
+        24,
+        28,
+        308,
+        22,
+        20,
+        18,
+        17,
+        13,
+        4,
+        2,
+        19,
+        16,
+        21,
+        29,
+        3
+      ]
+    },
+    {
+      "Name": "TERBIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        8,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "Name": "MASQUE_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        24,
+        28,
+        20,
+        19,
+        17,
+        4,
+        2,
+        18,
+        3
+      ]
+    },
+    {
+      "Name": "ASTRAL_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        8,
+        22,
+        24,
+        28,
+        20,
+        18,
+        17,
+        4,
+        2,
+        19,
+        16,
+        13,
+        29,
+        3
+      ]
+    },
+    {
+      "Name": "ENDURIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        5,
+        8,
+        9,
+        1,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "Name": "PROMETIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "IsVeteranEnabled": false,
+      "OnlyCollectWhenNoNpcsInSight": false,
+      "FoundOnMapIds": [
+        5,
+        9,
+        1,
+        2
+      ]
+    }
+  ]
+}

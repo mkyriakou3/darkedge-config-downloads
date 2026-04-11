@@ -1,0 +1,16 @@
+{
+  "ShouldRunFromEnemies": false,
+  "ShouldRunFromEnemiesInSight": false,
+  "StopRunningWhenLostSight": true,
+  "RepairDistance": 3000,
+  "MaxSightDistance": 2000,
+  "MinHpPercentageToRepair": 5,
+  "HpPercentageToStopRepairing": 100,
+  "ShieldPercentageToStopRepairing": 90,
+  "_RepairHeroConfig": {
+    "DroneFormation": 1,
+    "Config": 2
+  },
+  "EnableBattleStationsAsSafetyPositions": false,
+  "AvoidEnemyCbs": true
+}

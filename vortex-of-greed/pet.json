@@ -1,0 +1,13 @@
+{
+  "UsePet": false,
+  "RepairPetWhenDestroyed": true,
+  "MaxDeathsPerHour": 10,
+  "GearRepairPetToFull": false,
+  "IsBuyPetFuelEnabled": true,
+  "GearToUse": 2,
+  "GearToUseWhenNoLocatableEnemy": 4,
+  "UseHpLink": false,
+  "MaxHpPercentageToUseHpLink": 60,
+  "UsePetShipRepair": false,
+  "MaxHpPercentageToUsePetShipRepair": 60
+}

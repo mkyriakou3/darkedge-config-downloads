@@ -1,0 +1,41 @@
+{
+  "IsEnabled": false,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "",
+      "IsEnabled": true,
+      "MenuItemId": "",
+      "PressEveryMs": 1050,
+      "WhenHeroHpPercentageBelow": 40,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Kris",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "",
+      "IsEnabled": false,
+      "MenuItemId": "",
+      "PressEveryMs": 1300,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "",
+      "IsEnabled": false,
+      "MenuItemId": "",
+      "PressEveryMs": 1400,
+      "WhenHeroHpPercentageBelow": 40,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Spectr",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "WorkingMap": 32,
+  "SelectedBotModuleType": 2,
+  "_OffensiveConfig": {
+    "DroneFormation": 3,
+    "Config": 1
+  },
+  "_RoamConfig": {
+    "DroneFormation": 1,
+    "Config": 2
+  },
+  "_FleeConfig": {
+    "DroneFormation": 1,
+    "Config": 2
+  },
+  "_VeteranConfig": {
+    "DroneFormation": 1,
+    "Config": 1
+  },
+  "MinAttackTargetHpPercentageToUseVeteran": 20,
+  "RefreshEveryXMinutes": 60,
+  "LogoutHotKey": "l",
+  "ReconnectDelayMs": 2000,
+  "ReattackTimeoutMs": 2100,
+  "DefaultLaserOption": 0,
+  "DefaultRsbLaserOption": 0,
+  "DefaultRocketOption": 1,
+  "IsAutoRocketEnabled": false,
+  "DefaultRocketLauncherOption": 2,
+  "IsRaditionZoneAvoided": true,
+  "ReviveLocation": 1,
+  "DelayTillRetryReviveMs": 1000
+}

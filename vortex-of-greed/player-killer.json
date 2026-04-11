@@ -1,0 +1,17 @@
+{
+  "MainPlayerLaserAmmo": 3,
+  "UseRsbOnPlayers": true,
+  "IsVeteranEnabled": false,
+  "IgnoreOwnership": false,
+  "Radius": 390,
+  "MoveInCircle": true,
+  "IsAggressiveFollowEnabled": true,
+  "UseSeprom": true,
+  "NoSab": true,
+  "Rocket": -1,
+  "DroneFormation": 0,
+  "EnablePreferPlayersShotByMany": false,
+  "EnableOnlyShootCharactersFromPreferredRegion": false,
+  "EnableOnlyShootCharactersInPreferredRegion": false,
+  "EnableStopShootCharactersOutsidePreferredRegion": false
+}

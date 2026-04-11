@@ -1,0 +1,68 @@
+{
+  "IsEnabled": false,
+  "UseEEOnly": false,
+  "SelectedGalaxyGateSpinOption": 1,
+  "EnableTempFastSpin": false,
+  "MaxSpinCost": 70,
+  "MinUriToSpin": 0,
+  "DelayBetweenSpinsMs": 220,
+  "IsSpinWhileShootingNpcsEnabled": true,
+  "StopSpinWhenGateOnMap": false,
+  "GGSpinnerStates": [
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": true,
+      "SavedMapId": 51
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": true,
+      "SavedMapId": 52
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": true,
+      "SavedMapId": 53
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": false,
+      "SavedMapId": 70
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": false,
+      "SavedMapId": 75
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": false,
+      "SavedMapId": 55
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": false,
+      "SavedMapId": 71
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": false,
+      "SavedMapId": 74
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": false,
+      "SavedMapId": 76
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": false,
+      "SavedMapId": 203
+    },
+    {
+      "CallbackCanBuildWhenOnMap": null,
+      "ShouldBuildGate": false,
+      "SavedMapId": 300
+    }
+  ]
+}

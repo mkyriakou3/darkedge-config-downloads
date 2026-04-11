@@ -1,0 +1,11 @@
+{
+  "PrioriseConditionNpcs": false,
+  "BuyTargetLevel": 1,
+  "OnlyContinueWhenAllBoxesCollected": false,
+  "StopAfterLevelX": -1,
+  "SuicideAfterLeveLX": 13,
+  "SuicideAtLeveLX": -1,
+  "MinimumKeyCountToContinue": -1,
+  "EnableBuyKeysWhenLow": false,
+  "EntryConfigs": []
+}

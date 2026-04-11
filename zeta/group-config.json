@@ -1,0 +1,9 @@
+{
+  "IsEnabled": false,
+  "CheckEveryMs": 1000,
+  "IsOpenGroupInvitesEnabled": false,
+  "ShouldKickNonInvitedMembers": false,
+  "ShouldLeaveGroupIfNoInvitedMembersInside": false,
+  "ShouldInviteInRangePlayers": false,
+  "ShouldAcceptFromEveryone": false
+}

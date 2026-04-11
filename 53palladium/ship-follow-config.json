@@ -1,0 +1,14 @@
+{
+  "UserIdToFollow": 173064848,
+  "MoveInCircle": false,
+  "Radius": 100,
+  "ShouldDefendFromNpcs": true,
+  "ShouldDefendFromPlayers": false,
+  "IsAggressiveDefendFolloweeEnabled": false,
+  "ShouldAssistWithNpcs": true,
+  "ShouldAssistWithPlayers": false,
+  "Laser": 3,
+  "Rocket": -1,
+  "DroneFormation": 20,
+  "IsVeteranEnabled": false
+}

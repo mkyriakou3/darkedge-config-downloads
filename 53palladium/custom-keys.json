@@ -1,0 +1,23 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "Name": "dassa",
+      "IsEnabled": true,
+      "Key": "4",
+      "PressEveryMs": 5500,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null
+    },
+    {
+      "Name": "",
+      "IsEnabled": false,
+      "Key": "5",
+      "PressEveryMs": 300,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Boss"
+    }
+  ]
+}

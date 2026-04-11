@@ -1,0 +1,50 @@
+{
+  "___SinglePlayerConfigs": [
+    {
+      "Name": "pilot5",
+      "UserIdDisplay": "173072156",
+      "UserId": 173072156,
+      "ShouldSendInvitesTo": true,
+      "ShouldAcceptInvitesFrom": false,
+      "ShouldMakeGroupLeader": false,
+      "IsFollowEnabled": false,
+      "Radius": 0,
+      "MoveInCircle": false,
+      "ShouldDefendFromNpcs": false,
+      "ShouldDefendFromAssets": false,
+      "ShouldDefendFromPlayers": false,
+      "IsAggressiveDefendFolloweeEnabled": false,
+      "ShouldAssistWithNpcs": false,
+      "ShouldAssistWithAssets": false,
+      "ShouldAssistWithPlayers": false
+    },
+    {
+      "Name": "BMW325i",
+      "UserIdDisplay": "173100877",
+      "UserId": 173100877,
+      "ShouldSendInvitesTo": false,
+      "ShouldAcceptInvitesFrom": false,
+      "ShouldMakeGroupLeader": false,
+      "IsFollowEnabled": false,
+      "Radius": 0,
+      "MoveInCircle": false,
+      "ShouldDefendFromNpcs": false,
+      "ShouldDefendFromAssets": false,
+      "ShouldDefendFromPlayers": false,
+      "IsAggressiveDefendFolloweeEnabled": false,
+      "ShouldAssistWithNpcs": false,
+      "ShouldAssistWithAssets": false,
+      "ShouldAssistWithPlayers": false
+    }
+  ],
+  "DiscoveredUsernameToUserId": {
+    "-CHEMA-": 173082802,
+    "K_O_S_M_O_S": 173323083,
+    "Chos": 173090777,
+    "Tolz": 173445997,
+    "Captain_Behemoth": 173316881,
+    "chainsbey": 173090659,
+    "\u0411\u043E\u0433\u0430_\u0422\u0435\u043D\u0438": 173322213,
+    "K\u0131z\u0131lelma55": 173061927
+  }
+}

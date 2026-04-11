@@ -1,0 +1,49 @@
+{
+  "___SinglePlayerConfigs": [
+    {
+      "Name": "pilot5",
+      "UserIdDisplay": "173072156",
+      "UserId": 173072156,
+      "ShouldSendInvitesTo": false,
+      "ShouldAcceptInvitesFrom": true,
+      "ShouldMakeGroupLeader": false,
+      "IsFollowEnabled": false,
+      "Radius": 0,
+      "MoveInCircle": false,
+      "ShouldDefendFromNpcs": false,
+      "ShouldDefendFromPlayers": false,
+      "IsAggressiveDefendFolloweeEnabled": false,
+      "ShouldAssistWithNpcs": false,
+      "ShouldAssistWithPlayers": false,
+      "NoSab": false,
+      "Laser": -1,
+      "Rocket": -1,
+      "DroneFormation": 0,
+      "IsVeteranEnabled": false,
+      "IsRSBEnabled": false
+    },
+    {
+      "Name": "Morpho-01",
+      "UserIdDisplay": "173068295",
+      "UserId": 173068295,
+      "ShouldSendInvitesTo": false,
+      "ShouldAcceptInvitesFrom": false,
+      "ShouldMakeGroupLeader": false,
+      "IsFollowEnabled": false,
+      "Radius": 0,
+      "MoveInCircle": false,
+      "ShouldDefendFromNpcs": false,
+      "ShouldDefendFromPlayers": false,
+      "IsAggressiveDefendFolloweeEnabled": false,
+      "ShouldAssistWithNpcs": false,
+      "ShouldAssistWithPlayers": false,
+      "NoSab": false,
+      "Laser": -1,
+      "Rocket": -1,
+      "DroneFormation": 0,
+      "IsVeteranEnabled": false,
+      "IsRSBEnabled": false
+    }
+  ],
+  "DiscoveredUsernameToUserId": {}
+}

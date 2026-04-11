@@ -1,0 +1,17 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "2026-02-17T20:13:42.8348084Z",
+      "Name": "ammunition_mine_acm-01",
+      "IsEnabled": true,
+      "MenuItemId": "ammunition_mine_acm-01",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    }
+  ]
+}

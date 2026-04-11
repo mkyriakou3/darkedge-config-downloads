@@ -1,0 +1,10 @@
+{
+  "ShowHeroName": true,
+  "ShowAssetInfos": false,
+  "ShowPortalInfos": true,
+  "ShowMineInfos": false,
+  "ShowBoxInfos": true,
+  "ShowCargoInfos": true,
+  "ShowNpcMapNames": true,
+  "ShowPoiMapNames": false
+}

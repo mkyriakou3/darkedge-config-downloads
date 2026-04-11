@@ -1,0 +1,5 @@
+{
+  "KillNpcsAfterComplete": false,
+  "CollectBoxesAfterComplete": true,
+  "EnableIgnoreFakeMirrorNpcs": false
+}

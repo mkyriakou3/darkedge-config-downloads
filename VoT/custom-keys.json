@@ -1,0 +1,29 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "2025-10-17T07:28:49.7366089Z",
+      "Name": "ability_orcus_assimilate",
+      "IsEnabled": true,
+      "MenuItemId": "ability_orcus_assimilate",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 68,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "equipment_extra_cpu_ish-01",
+      "IsEnabled": true,
+      "MenuItemId": "equipment_extra_cpu_ish-01",
+      "PressEveryMs": 3500,
+      "WhenHeroHpPercentageBelow": 69,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false
+    }
+  ]
+}

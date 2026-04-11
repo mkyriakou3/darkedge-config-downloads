@@ -1,0 +1,5 @@
+{
+  "RepairWhenBelowHitpointPercentage": 20,
+  "RepairUntilHitpointPercentage": 100,
+  "CollectBoxKillRadius": 150
+}

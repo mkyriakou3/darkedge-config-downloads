@@ -1,0 +1,411 @@
+{
+  "WaitForPetToCollectBoxTimeoutMs": 12000,
+  "IgnoreContestedBoxes": true,
+  "CollectableConfigs": [
+    {
+      "Name": "PALLADIUM",
+      "Priority": -1000,
+      "Collect": true,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        91,
+        93
+      ]
+    },
+    {
+      "Name": "AGATUS_BOX",
+      "Priority": -10000,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "CURCUBITOR_BOX",
+      "Priority": -1000,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7
+      ]
+    },
+    {
+      "Name": "CURCUBITOR_BOSS_BOX",
+      "Priority": -1000,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7
+      ]
+    },
+    {
+      "Name": "FROM_SHIP",
+      "Priority": -500,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        17,
+        92,
+        93,
+        29,
+        91,
+        22,
+        307,
+        25,
+        24,
+        21
+      ]
+    },
+    {
+      "Name": "BIFENON_2",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        93
+      ]
+    },
+    {
+      "Name": "MIRE_CRATE",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        16
+      ]
+    },
+    {
+      "Name": "FLUX_CRATE",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        16,
+        93
+      ]
+    },
+    {
+      "Name": "PIRATE_BOOTY_RED",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        93,
+        21,
+        23,
+        92,
+        7,
+        8,
+        24,
+        29,
+        91,
+        14,
+        17,
+        16,
+        22,
+        25
+      ]
+    },
+    {
+      "Name": "PIRATE_BOOTY_BLUE",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        92,
+        93,
+        21,
+        29,
+        91,
+        23,
+        7,
+        8,
+        24,
+        14,
+        16,
+        17,
+        25,
+        22
+      ]
+    },
+    {
+      "Name": "PRISMATIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "SCRAPIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7,
+        8
+      ]
+    },
+    {
+      "Name": "MUCOSUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "MINI_PUMPKIN",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7,
+        8,
+        14,
+        6,
+        21,
+        91,
+        92,
+        93,
+        23,
+        24,
+        29,
+        5,
+        16
+      ]
+    },
+    {
+      "Name": "AURUS_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        92,
+        93,
+        91
+      ]
+    },
+    {
+      "Name": "BONUS_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7,
+        8,
+        14,
+        22,
+        6,
+        21,
+        23,
+        24,
+        5,
+        17,
+        25,
+        1,
+        2
+      ]
+    },
+    {
+      "Name": "CANDY_CARGO",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7,
+        8,
+        6,
+        92,
+        93,
+        29,
+        23
+      ]
+    },
+    {
+      "Name": "BLACK_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7,
+        8,
+        16,
+        6,
+        14,
+        21,
+        91,
+        92,
+        93,
+        24,
+        22,
+        17,
+        25,
+        29,
+        2
+      ]
+    },
+    {
+      "Name": "BATTLEPASS",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7,
+        8,
+        6,
+        21,
+        91,
+        92,
+        93,
+        23,
+        24,
+        14,
+        16,
+        29,
+        17,
+        25,
+        22,
+        2
+      ]
+    },
+    {
+      "Name": "BIFENON",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        93,
+        92
+      ]
+    },
+    {
+      "Name": "ASTRAL_PRIME_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        21,
+        29,
+        92,
+        93,
+        23,
+        24,
+        91,
+        14,
+        16,
+        17,
+        25,
+        22
+      ]
+    },
+    {
+      "Name": "PIRATE_BOOTY",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7,
+        8,
+        6,
+        21,
+        92,
+        93,
+        91,
+        29,
+        23,
+        24,
+        16,
+        17,
+        25,
+        22,
+        2
+      ]
+    },
+    {
+      "Name": "TERBIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        8,
+        7,
+        6
+      ]
+    },
+    {
+      "Name": "MASQUE_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": null
+    },
+    {
+      "Name": "ASTRAL_BOOTY_BOX",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7,
+        8,
+        14,
+        16,
+        22,
+        6,
+        21,
+        92,
+        93,
+        23,
+        24,
+        29,
+        91,
+        17,
+        25,
+        2
+      ]
+    },
+    {
+      "Name": "ENDURIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": [
+        7,
+        8,
+        6,
+        5
+      ]
+    },
+    {
+      "Name": "PROMETIUM",
+      "Priority": 0,
+      "Collect": false,
+      "UsePetToCollect": false,
+      "DroneFormation": 0,
+      "FoundOnMapIds": null
+    }
+  ]
+}

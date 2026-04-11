@@ -1,0 +1,17 @@
+{
+  "IsEnabled": false,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "2026-03-13T13:16:33.9976179Z",
+      "Name": "",
+      "IsEnabled": false,
+      "MenuItemId": "",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "ds",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    }
+  ]
+}

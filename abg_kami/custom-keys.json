@@ -1,0 +1,14 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "Name": "",
+      "IsEnabled": true,
+      "Key": "8",
+      "PressEveryMs": 1300,
+      "WhenHeroHpPercentageBelow": 70,
+      "WhenHeroShieldPercentageBelow": 5,
+      "WhenPointingAtCharacterSubname": null
+    }
+  ]
+}
