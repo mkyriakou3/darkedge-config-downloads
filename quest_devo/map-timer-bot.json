@@ -15,13 +15,13 @@
     },
     {
       "Map": 3,
-      "IsEnabled": true,
+      "IsEnabled": false,
       "SecondsBeforeSwitch": 180,
       "SwitchToMap": 4
     },
     {
       "Map": 4,
-      "IsEnabled": true,
+      "IsEnabled": false,
       "SecondsBeforeSwitch": 180,
       "SwitchToMap": 3
     },
@@ -216,6 +216,18 @@
       "IsEnabled": false,
       "SecondsBeforeSwitch": 60,
       "SwitchToMap": 1
+    },
+    {
+      "Map": 102,
+      "IsEnabled": true,
+      "SecondsBeforeSwitch": 180,
+      "SwitchToMap": 4
+    },
+    {
+      "Map": 103,
+      "IsEnabled": true,
+      "SecondsBeforeSwitch": 180,
+      "SwitchToMap": 3
     }
   ]
 }

@@ -27,25 +27,25 @@
     },
     {
       "Map": 5,
-      "IsEnabled": true,
+      "IsEnabled": false,
       "SecondsBeforeSwitch": 600,
       "SwitchToMap": 7
     },
     {
       "Map": 6,
-      "IsEnabled": true,
+      "IsEnabled": false,
       "SecondsBeforeSwitch": 600,
       "SwitchToMap": 5
     },
     {
       "Map": 7,
-      "IsEnabled": true,
+      "IsEnabled": false,
       "SecondsBeforeSwitch": 600,
       "SwitchToMap": 8
     },
     {
       "Map": 8,
-      "IsEnabled": true,
+      "IsEnabled": false,
       "SecondsBeforeSwitch": 600,
       "SwitchToMap": 6
     },
@@ -216,6 +216,30 @@
       "IsEnabled": false,
       "SecondsBeforeSwitch": 60,
       "SwitchToMap": 1
+    },
+    {
+      "Map": 104,
+      "IsEnabled": true,
+      "SecondsBeforeSwitch": 600,
+      "SwitchToMap": 7
+    },
+    {
+      "Map": 105,
+      "IsEnabled": true,
+      "SecondsBeforeSwitch": 600,
+      "SwitchToMap": 5
+    },
+    {
+      "Map": 106,
+      "IsEnabled": true,
+      "SecondsBeforeSwitch": 600,
+      "SwitchToMap": 8
+    },
+    {
+      "Map": 107,
+      "IsEnabled": true,
+      "SecondsBeforeSwitch": 600,
+      "SwitchToMap": 6
     }
   ]
 }
