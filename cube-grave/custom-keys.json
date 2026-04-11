@@ -1,0 +1,89 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "2026-04-11T20:12:48.3726604Z",
+      "Name": "ability_citadel-plus_prismatic-endurance",
+      "IsEnabled": true,
+      "MenuItemId": "ability_citadel-plus_prismatic-endurance",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 61,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "tech_energy-leech",
+      "IsEnabled": true,
+      "MenuItemId": "tech_energy-leech",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 91,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Uber",
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "ability_citadel_travel",
+      "IsEnabled": true,
+      "MenuItemId": "ability_citadel_travel",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "equipment_extra_cpu_ish-01",
+      "IsEnabled": true,
+      "MenuItemId": "equipment_extra_cpu_ish-01",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 81,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "tech_battle-repair-bot2",
+      "IsEnabled": true,
+      "MenuItemId": "tech_battle-repair-bot2",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 41,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "tech_shield-backup2",
+      "IsEnabled": true,
+      "MenuItemId": "tech_shield-backup2",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 31,
+      "WhenHeroShieldPercentageBelow": 5,
+      "WhenPointingAtCharacterSubname": "",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "ammunition_specialammo_emp-01",
+      "IsEnabled": true,
+      "MenuItemId": "ammunition_specialammo_emp-01",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 71,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false
+    }
+  ]
+}
