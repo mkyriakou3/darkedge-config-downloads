@@ -1,0 +1,70 @@
+{
+  "MinimumLivesToJumpInGate": 1,
+  "MinimumNpcsToUseKamikaze": 100,
+  "MinShieldPercentageToUseKamikaze": 98,
+  "MenuItemIdWhileKamikaze": "",
+  "PreferredMapQuadrant": 4,
+  "AllowRefreshInsideGate": true,
+  "SingleGalaxyGateConfigs": [
+    {
+      "SavedMapId": 51,
+      "JumpInto": true,
+      "Priority": 0,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 52,
+      "JumpInto": true,
+      "Priority": 0,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 53,
+      "JumpInto": true,
+      "Priority": 0,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 71,
+      "JumpInto": false,
+      "Priority": -999,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 74,
+      "JumpInto": false,
+      "Priority": -999,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 55,
+      "JumpInto": false,
+      "Priority": 0,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 70,
+      "JumpInto": false,
+      "Priority": 0,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 75,
+      "JumpInto": false,
+      "Priority": 0,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 76,
+      "JumpInto": false,
+      "Priority": 0,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 300,
+      "JumpInto": false,
+      "Priority": 0,
+      "JumpOutAtWave": 0
+    }
+  ]
+}

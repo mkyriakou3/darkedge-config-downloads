@@ -1,0 +1,41 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "2025-11-07T11:53:24.7938265Z",
+      "Name": "tech_energy-leech",
+      "IsEnabled": true,
+      "MenuItemId": "tech_energy-leech",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "-=[ Kristallon ]=- \u03B3,one,two",
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "2025-08-13T21:31:58.3344907Z",
+      "Name": "equipment_extra_cpu_ish-01",
+      "IsEnabled": true,
+      "MenuItemId": "equipment_extra_cpu_ish-01",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 60,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "ability_orcus_assimilate",
+      "IsEnabled": true,
+      "MenuItemId": "ability_orcus_assimilate",
+      "PressEveryMs": 1250,
+      "WhenHeroHpPercentageBelow": 70,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false
+    }
+  ]
+}
