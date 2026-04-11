@@ -1,0 +1,56 @@
+{
+  "___SinglePlayerConfigs": [
+    {
+      "Name": "pilot5",
+      "UserIdDisplay": "173072156",
+      "UserId": 173072156,
+      "ShouldSendInvitesTo": true,
+      "ShouldAcceptInvitesFrom": false,
+      "ShouldMakeGroupLeader": false,
+      "DoNotCounterAttack": false,
+      "IsFollowEnabled": false,
+      "Radius": 0,
+      "MoveInCircle": false,
+      "ShouldDefendFromNpcs": false,
+      "ShouldDefendFromAssets": false,
+      "ShouldDefendFromPlayers": false,
+      "IsAggressiveDefendFolloweeEnabled": false,
+      "ShouldAssistWithNpcs": false,
+      "ShouldAssistWithAssets": false,
+      "ShouldAssistWithPlayers": false
+    },
+    {
+      "Name": "BMW325i",
+      "UserIdDisplay": "173100877",
+      "UserId": 173100877,
+      "ShouldSendInvitesTo": false,
+      "ShouldAcceptInvitesFrom": false,
+      "ShouldMakeGroupLeader": false,
+      "DoNotCounterAttack": false,
+      "IsFollowEnabled": false,
+      "Radius": 0,
+      "MoveInCircle": false,
+      "ShouldDefendFromNpcs": false,
+      "ShouldDefendFromAssets": false,
+      "ShouldDefendFromPlayers": false,
+      "IsAggressiveDefendFolloweeEnabled": false,
+      "ShouldAssistWithNpcs": false,
+      "ShouldAssistWithAssets": false,
+      "ShouldAssistWithPlayers": false
+    }
+  ],
+  "DiscoveredUsernameToUserId": {
+    "Tahirie": 173190411,
+    "DAEMONN2": 47962778,
+    "\u2020\u041A\u2022R\u2022\u0423\u2022\u0428\u2022\u0418\u2022T\u2022\u0415\u2022\u041B\u2022\u042C\u2020": 172576631,
+    "SuSpiCiouS_Owlet[UA]": 173364144,
+    "P\u039B\u042F\u041F\u039B\u01A7\u01A7\u0426\u01A7[IT\u039B]": 99662941,
+    "el\u0660\u05BCNiegro": 173184893,
+    "\u0422\u043E\u043B\u0438\u043A/\u0158\u03BC\u015D/": 2235566,
+    "GOY\u0130_73": 91998756,
+    "FARAGE": 173261850,
+    "Mamaburras": 172727614,
+    "SkyVoyager": 166164504,
+    "BrunoWilder": 171523970
+  }
+}

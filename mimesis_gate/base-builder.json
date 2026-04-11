@@ -1,0 +1,171 @@
+{
+  "BuildTimeMinutes": 5,
+  "MaxNumOwnedBases": -1,
+  "EquipDamageBooster": false,
+  "EquipEpBooster": false,
+  "EquipHonBooster": false,
+  "EquipRepairModule": false,
+  "BaseMapConfigs": [
+    {
+      "Map": 7,
+      "MapId": 19,
+      "VMapId": 19,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 3,
+      "MapId": 3,
+      "VMapId": 3,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 5,
+      "MapId": 17,
+      "VMapId": 17,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 19,
+      "MapId": 11,
+      "VMapId": 11,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 20,
+      "MapId": 12,
+      "VMapId": 12,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 14,
+      "MapId": 22,
+      "VMapId": 22,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 29,
+      "MapId": 29,
+      "VMapId": 29,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 13,
+      "MapId": 21,
+      "VMapId": 21,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 36,
+      "MapId": 308,
+      "VMapId": 308,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 12,
+      "MapId": 8,
+      "VMapId": 8,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 15,
+      "MapId": 23,
+      "VMapId": 23,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 25,
+      "MapId": 13,
+      "VMapId": 13,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 34,
+      "MapId": 306,
+      "VMapId": 306,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 23,
+      "MapId": 27,
+      "VMapId": 27,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 21,
+      "MapId": 25,
+      "VMapId": 25,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 22,
+      "MapId": 26,
+      "VMapId": 26,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 27,
+      "MapId": 15,
+      "VMapId": 15,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 26,
+      "MapId": 14,
+      "VMapId": 14,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 6,
+      "MapId": 18,
+      "VMapId": 18,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 4,
+      "MapId": 4,
+      "VMapId": 4,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 11,
+      "MapId": 7,
+      "VMapId": 7,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 35,
+      "MapId": 307,
+      "VMapId": 307,
+      "Priority": 0,
+      "Build": false
+    },
+    {
+      "Map": 28,
+      "MapId": 16,
+      "VMapId": 16,
+      "Priority": 0,
+      "Build": false
+    }
+  ]
+}

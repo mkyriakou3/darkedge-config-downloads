@@ -1,0 +1,205 @@
+{
+  "NpcOption": 6,
+  "WaitBeforeMapChangeMs": 60000,
+  "WaitForBotToFinishAttackingBeforeMapChange": true,
+  "MindfirePreparationTimeMs": 0,
+  "DelayAfterReconnect": 0,
+  "SpawnPositionRadius": 50,
+  "AfterMapChangeDelayMs": 0,
+  "___MapCycleConfigs": [
+    {
+      "Map": 6,
+      "IsEnabled": true,
+      "Priority": 1
+    },
+    {
+      "Map": 5,
+      "IsEnabled": true,
+      "Priority": 2
+    },
+    {
+      "Map": 7,
+      "IsEnabled": true,
+      "Priority": 3
+    },
+    {
+      "Map": 8,
+      "IsEnabled": true,
+      "Priority": 4
+    },
+    {
+      "Map": 1,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 2,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 3,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 4,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 9,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 10,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 11,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 12,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 17,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 18,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 19,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 20,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 25,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 26,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 27,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 28,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 29,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 30,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 31,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 32,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 33,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 34,
+      "IsEnabled": false,
+      "Priority": 5
+    },
+    {
+      "Map": 35,
+      "IsEnabled": false,
+      "Priority": 6
+    },
+    {
+      "Map": 36,
+      "IsEnabled": false,
+      "Priority": 6
+    },
+    {
+      "Map": 16,
+      "IsEnabled": false,
+      "Priority": 7
+    },
+    {
+      "Map": 24,
+      "IsEnabled": false,
+      "Priority": 7
+    },
+    {
+      "Map": 15,
+      "IsEnabled": false,
+      "Priority": 8
+    },
+    {
+      "Map": 23,
+      "IsEnabled": false,
+      "Priority": 8
+    },
+    {
+      "Map": 14,
+      "IsEnabled": false,
+      "Priority": 9
+    },
+    {
+      "Map": 21,
+      "IsEnabled": false,
+      "Priority": 9
+    },
+    {
+      "Map": 13,
+      "IsEnabled": false,
+      "Priority": 10
+    },
+    {
+      "Map": 22,
+      "IsEnabled": false,
+      "Priority": 10
+    }
+  ],
+  "MapCycle": [
+    {
+      "\u202B\u200B\u206D\u200D\u206D\u206C\u202D\u202D\u202B\u200C\u202C\u202B\u202B\u206B\u200F\u206B\u202E\u206C\u200E\u206B\u206B\u202E\u206C\u206C\u206A\u206C\u202D\u200C\u206C\u200D\u202C\u206E\u200F\u202C\u202B\u200B\u206B\u200D\u200F\u200E\u202E": 6
+    },
+    {
+      "\u202B\u200B\u206D\u200D\u206D\u206C\u202D\u202D\u202B\u200C\u202C\u202B\u202B\u206B\u200F\u206B\u202E\u206C\u200E\u206B\u206B\u202E\u206C\u206C\u206A\u206C\u202D\u200C\u206C\u200D\u202C\u206E\u200F\u202C\u202B\u200B\u206B\u200D\u200F\u200E\u202E": 5
+    },
+    {
+      "\u202B\u200B\u206D\u200D\u206D\u206C\u202D\u202D\u202B\u200C\u202C\u202B\u202B\u206B\u200F\u206B\u202E\u206C\u200E\u206B\u206B\u202E\u206C\u206C\u206A\u206C\u202D\u200C\u206C\u200D\u202C\u206E\u200F\u202C\u202B\u200B\u206B\u200D\u200F\u200E\u202E": 7
+    },
+    {
+      "\u202B\u200B\u206D\u200D\u206D\u206C\u202D\u202D\u202B\u200C\u202C\u202B\u202B\u206B\u200F\u206B\u202E\u206C\u200E\u206B\u206B\u202E\u206C\u206C\u206A\u206C\u202D\u200C\u206C\u200D\u202C\u206E\u200F\u202C\u202B\u200B\u206B\u200D\u200F\u200E\u202E": 8
+    }
+  ]
+}
