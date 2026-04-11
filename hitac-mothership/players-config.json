@@ -1,0 +1,46 @@
+{
+  "___SinglePlayerConfigs": [
+    {
+      "Name": "pilot5",
+      "UserIdDisplay": "173072156",
+      "UserId": 173072156,
+      "ShouldSendInvitesTo": true,
+      "ShouldAcceptInvitesFrom": false,
+      "ShouldMakeGroupLeader": false,
+      "IsFollowEnabled": false,
+      "Radius": 0,
+      "MoveInCircle": false,
+      "ShouldDefendFromNpcs": false,
+      "ShouldDefendFromAssets": false,
+      "ShouldDefendFromPlayers": false,
+      "IsAggressiveDefendFolloweeEnabled": false,
+      "ShouldAssistWithNpcs": false,
+      "ShouldAssistWithAssets": false,
+      "ShouldAssistWithPlayers": false
+    },
+    {
+      "Name": "BMW325i",
+      "UserIdDisplay": "173100877",
+      "UserId": 173100877,
+      "ShouldSendInvitesTo": false,
+      "ShouldAcceptInvitesFrom": false,
+      "ShouldMakeGroupLeader": false,
+      "IsFollowEnabled": false,
+      "Radius": 0,
+      "MoveInCircle": false,
+      "ShouldDefendFromNpcs": false,
+      "ShouldDefendFromAssets": false,
+      "ShouldDefendFromPlayers": false,
+      "IsAggressiveDefendFolloweeEnabled": false,
+      "ShouldAssistWithNpcs": false,
+      "ShouldAssistWithAssets": false,
+      "ShouldAssistWithPlayers": false
+    }
+  ],
+  "DiscoveredUsernameToUserId": {
+    "ALMIGHTY2STARS": 173077500,
+    "No_Name_": 173060205,
+    "Smartaniel": 173062569,
+    "DEMON54": 173079427
+  }
+}

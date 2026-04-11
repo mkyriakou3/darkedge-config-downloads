@@ -1,0 +1,60 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "2025-08-25T10:44:31.1738882Z",
+      "Name": "ammunition_specialammo_sr-5",
+      "IsEnabled": true,
+      "MenuItemId": "ammunition_specialammo_sr-5",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Hitac",
+      "UseOnlyWhenUnderAttack": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "equipment_extra_cpu_ish-01",
+      "IsEnabled": true,
+      "MenuItemId": "equipment_extra_cpu_ish-01",
+      "PressEveryMs": 1400,
+      "WhenHeroHpPercentageBelow": 41,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Hitac",
+      "UseOnlyWhenUnderAttack": true
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "ammunition_specialammo_emp-01",
+      "IsEnabled": true,
+      "MenuItemId": "ammunition_specialammo_emp-01",
+      "PressEveryMs": 1050,
+      "WhenHeroHpPercentageBelow": 20,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Hitac",
+      "UseOnlyWhenUnderAttack": true
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "ammunition_specialammo_pld-8",
+      "IsEnabled": true,
+      "MenuItemId": "ammunition_specialammo_pld-8",
+      "PressEveryMs": 1300,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Hitac",
+      "UseOnlyWhenUnderAttack": false
+    },
+    {
+      "CreatedAt": "2025-08-31T11:55:34.7564242Z",
+      "Name": "tech_precision-targeter",
+      "IsEnabled": true,
+      "MenuItemId": "tech_precision-targeter",
+      "PressEveryMs": 1500,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": true
+    }
+  ]
+}

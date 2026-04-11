@@ -1,0 +1,118 @@
+{
+  "IsEnabled": false,
+  "RefreshQuestInfoEveryHours": 12,
+  "QuestToAcceptConfigs": [
+    {
+      "QuestId": 510146,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 510145,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 510144,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 510143,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 506692,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 318002,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 318001,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 317031,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 317030,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 317029,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 317028,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 310027,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 310026,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 310025,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 310024,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 310023,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 310022,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300021,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300020,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300019,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300018,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300017,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300015,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300014,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300013,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300012,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300011,
+      "ShouldAccept": false
+    },
+    {
+      "QuestId": 300010,
+      "ShouldAccept": false
+    }
+  ]
+}
