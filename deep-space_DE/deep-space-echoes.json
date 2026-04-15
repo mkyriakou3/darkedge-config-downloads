@@ -1,0 +1,257 @@
+{
+  "PrioriseConditionNpcs": true,
+  "BuyTargetLevel": 1,
+  "OnlyContinueWhenAllBoxesCollected": false,
+  "StopAfterLevelX": -1,
+  "SuicideAfterLeveLX": -1,
+  "SuicideAtLeveLX": -1,
+  "MinimumKeyCountToContinue": -1,
+  "EnableBuyKeysWhenLow": true,
+  "EntryConfigs": [
+    {
+      "Name": "ship_solace-plus",
+      "IsEnabled": true,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_orcus",
+      "IsEnabled": false,
+      "Priority": -1
+    },
+    {
+      "Name": "ship_citadel-plus",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_spearhead",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_g-veteran",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_v-corsair",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_g-enforcer",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_c-elite",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_g-exalted",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_citadel",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_g-surgeon",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_v-adept",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_v-avenger",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_aegis",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_spearhead-plus",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_a-elite",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_pusat",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_g-vanquisher",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_berserker",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_s-elite",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_g-sovereign",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_s-veteran",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_cyborg",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_goliath",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_g-peacemaker",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_v-revenge",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_vengeance",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_diminisher",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_g-bastion",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_g-centaur",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_leonov",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_liberator",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_hecate",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_a-veteran",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_sentinel",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_goliath-plus",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_v-lightning",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_hecate-plus",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_spectrum",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_hammerclaw",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_solaris",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_solaris-plus",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_retiarus",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_c-veteran",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_solace",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_venom",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_retiarus-plus",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_basilisk",
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Name": "ship_spectrum-plus",
+      "IsEnabled": false,
+      "Priority": 0
+    }
+  ]
+}
