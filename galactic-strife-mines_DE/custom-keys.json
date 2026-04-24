@@ -1,0 +1,18 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "2026-04-24T18:00:33.8190515Z",
+      "Name": "ammunition_mine_sabm-01",
+      "IsEnabled": true,
+      "MenuItemId": "ammunition_mine_sabm-01",
+      "PressEveryMs": 250,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false,
+      "UseOnlyInsidePreferredRegion": true
+    }
+  ]
+}

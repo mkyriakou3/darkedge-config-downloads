@@ -1,0 +1,197 @@
+{
+  "IsEnabled": false,
+  "HangarSwitchOptionConfigs": [
+    {
+      "Name": "ship_solace-plus",
+      "IsEnabled": true
+    },
+    {
+      "Name": "ship_aegis",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_a-elite",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_a-veteran",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_basilisk",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_berserker",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_c-elite",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_citadel",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_citadel-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_c-veteran",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_cyborg",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_diminisher",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_g-bastion",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_g-centaur",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_g-enforcer",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_g-exalted",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_goliath",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_goliath-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_g-peacemaker",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_g-sovereign",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_g-surgeon",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_g-vanquisher",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_g-veteran",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_hammerclaw",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_hecate",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_hecate-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_leonov",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_liberator",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_orcus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_pusat",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_retiarus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_retiarus-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_s-elite",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_sentinel",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_solace",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_solaris-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_spearhead",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_spearhead-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_spectrum",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_spectrum-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_s-veteran",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_v-adept",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_v-avenger",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_v-corsair",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_vengeance",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_venom",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_v-lightning",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_v-revenge",
+      "IsEnabled": false
+    }
+  ]
+}

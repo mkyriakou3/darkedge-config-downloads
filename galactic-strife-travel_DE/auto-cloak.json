@@ -1,0 +1,9 @@
+{
+  "IsEnabled": true,
+  "CloakOnMapChange": false,
+  "CloakOnDeath": false,
+  "CloakOnNpcSubnameDestroyed": null,
+  "CloakIdleForMs": 20000,
+  "CloakBuyLimit": 60,
+  "CloakBuyLimitType": 0
+}
