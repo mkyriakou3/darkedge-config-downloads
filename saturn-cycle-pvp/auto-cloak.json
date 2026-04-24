@@ -1,0 +1,7 @@
+{
+  "IsEnabled": false,
+  "CloakOnMapChange": false,
+  "CloakOnDeath": false,
+  "CloakOnNpcSubnameDestroyed": null,
+  "CloakIdleForMs": -1
+}

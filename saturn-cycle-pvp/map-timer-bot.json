@@ -1,0 +1,275 @@
+{
+  "IsEnabled": false,
+  "___MapTimerConfigs": [
+    {
+      "Map": 3,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 180,
+      "SwitchToMap": 4
+    },
+    {
+      "Map": 4,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 600,
+      "SwitchToMap": 3
+    },
+    {
+      "Map": 1,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 2,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 5,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 6,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 7,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 8,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 34,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 9,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 10,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 11,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 12,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 13,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 14,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 15,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 16,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 35,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 17,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 18,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 19,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 20,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 21,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 22,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 23,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 24,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 36,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 25,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 26,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 27,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 28,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 29,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 30,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 31,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 32,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 33,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 100,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 101,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 102,
+      "IsEnabled": true,
+      "SecondsBeforeSwitch": 180,
+      "SwitchToMap": 4
+    },
+    {
+      "Map": 103,
+      "IsEnabled": true,
+      "SecondsBeforeSwitch": 600,
+      "SwitchToMap": 3
+    },
+    {
+      "Map": 104,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 105,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 106,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 107,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 108,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    }
+  ]
+}
