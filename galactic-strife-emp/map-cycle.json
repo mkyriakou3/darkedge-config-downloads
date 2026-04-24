@@ -8,21 +8,6 @@
   "AfterMapChangeDelayMs": 0,
   "___MapCycleConfigs": [
     {
-      "Map": 35,
-      "IsEnabled": false,
-      "Priority": 6
-    },
-    {
-      "Map": 36,
-      "IsEnabled": false,
-      "Priority": 6
-    },
-    {
-      "Map": 34,
-      "IsEnabled": false,
-      "Priority": 5
-    },
-    {
       "Map": 6,
       "IsEnabled": true,
       "Priority": 1
@@ -191,6 +176,21 @@
       "Map": 27,
       "IsEnabled": false,
       "Priority": 3
+    },
+    {
+      "Map": 34,
+      "IsEnabled": false,
+      "Priority": 5
+    },
+    {
+      "Map": 35,
+      "IsEnabled": false,
+      "Priority": 6
+    },
+    {
+      "Map": 36,
+      "IsEnabled": false,
+      "Priority": 6
     },
     {
       "Map": 16,

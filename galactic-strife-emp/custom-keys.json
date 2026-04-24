@@ -11,7 +11,8 @@
       "WhenHeroShieldPercentageBelow": 101,
       "WhenPointingAtCharacterSubname": null,
       "UseOnlyWhenUnderAttack": false,
-      "UseOnlyWhenLeachIsActive": false
+      "UseOnlyWhenLeachIsActive": false,
+      "UseOnlyInsidePreferredRegion": false
     }
   ]
 }

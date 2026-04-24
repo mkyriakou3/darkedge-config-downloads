@@ -7,6 +7,12 @@
   "AllowRefreshInsideGate": false,
   "SingleGalaxyGateConfigs": [
     {
+      "SavedMapId": 51,
+      "JumpInto": true,
+      "Priority": -20,
+      "JumpOutAtWave": 1
+    },
+    {
       "SavedMapId": 52,
       "JumpInto": false,
       "Priority": -10,
@@ -16,12 +22,6 @@
       "SavedMapId": 53,
       "JumpInto": false,
       "Priority": 0,
-      "JumpOutAtWave": 1
-    },
-    {
-      "SavedMapId": 51,
-      "JumpInto": true,
-      "Priority": -20,
       "JumpOutAtWave": 1
     },
     {
