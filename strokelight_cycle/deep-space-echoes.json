@@ -1,0 +1,17 @@
+{
+  "PrioriseConditionNpcs": false,
+  "BuyTargetLevel": 1,
+  "OnlyContinueWhenAllBoxesCollected": false,
+  "StopAfterLevelX": -1,
+  "SuicideAfterLeveLX": -1,
+  "SuicideAtLeveLX": -1,
+  "MinimumKeyCountToContinue": -1,
+  "EnableBuyKeysWhenLow": false,
+  "EntryConfigs": [
+    {
+      "Name": "ship_solace-plus",
+      "IsEnabled": false,
+      "Priority": 0
+    }
+  ]
+}
