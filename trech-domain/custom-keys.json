@@ -1,0 +1,18 @@
+{
+  "IsEnabled": false,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "ability_orcus_assimilate",
+      "IsEnabled": true,
+      "MenuItemId": "ability_orcus_assimilate",
+      "PressEveryMs": 1300,
+      "WhenHeroHpPercentageBelow": 70,
+      "WhenHeroShieldPercentageBelow": 5,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": true,
+      "UseOnlyWhenLeachIsActive": false,
+      "UseOnlyInsidePreferredRegion": false
+    }
+  ]
+}
