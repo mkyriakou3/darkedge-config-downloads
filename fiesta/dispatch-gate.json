@@ -1,0 +1,66 @@
+{
+  "IsEnabled": false,
+  "EnableCraftGGEUWhenLow": false,
+  "SingleGateConfigs": [
+    {
+      "Id": 3,
+      "Name": "GAMMA",
+      "ShouldSend": false,
+      "Duration": "00:30:00"
+    },
+    {
+      "Id": 1,
+      "Name": "ALPHA",
+      "ShouldSend": false,
+      "Duration": "00:30:00"
+    },
+    {
+      "Id": 2,
+      "Name": "BETA",
+      "ShouldSend": false,
+      "Duration": "00:30:00"
+    },
+    {
+      "Id": 5,
+      "Name": "DELTA",
+      "ShouldSend": false,
+      "Duration": "00:30:00"
+    },
+    {
+      "Id": 8,
+      "Name": "EPSILON",
+      "ShouldSend": false,
+      "Duration": "00:30:00"
+    },
+    {
+      "Id": 10,
+      "Name": "KAPPA",
+      "ShouldSend": false,
+      "Duration": "00:30:00"
+    },
+    {
+      "Id": 12,
+      "Name": "KRONOS",
+      "ShouldSend": false,
+      "Duration": "01:00:00"
+    },
+    {
+      "Id": 11,
+      "Name": "LAMBDA",
+      "ShouldSend": false,
+      "Duration": "00:30:00"
+    },
+    {
+      "Id": 9,
+      "Name": "ZETA",
+      "ShouldSend": false,
+      "Duration": "00:30:00"
+    },
+    {
+      "Id": 19,
+      "Name": "STREUNER",
+      "ShouldSend": false,
+      "Duration": "00:30:00"
+    }
+  ]
+}

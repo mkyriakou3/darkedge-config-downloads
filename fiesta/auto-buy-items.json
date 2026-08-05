@@ -1,0 +1,19 @@
+{
+  "BuyHonBo2Enabled": true,
+  "BuyHonBo1Enabled": true,
+  "BuyDmgBo2Enabled": true,
+  "BuyDmgBo1Enabled": true,
+  "BuyEpBo2Enabled": true,
+  "BuyEpBo1Enabled": true,
+  "BuyCooldownBo2Enabled": false,
+  "BuyCooldownBo1Enabled": false,
+  "BuyShieldBo2Enabled": false,
+  "BuyShieldBo1Enabled": false,
+  "BuyHpBo2Enabled": false,
+  "BuyHpBo1Enabled": false,
+  "BuyResBo2Enabled": false,
+  "BuyResBo1Enabled": false,
+  "BuyDmgHo1Enabled": false,
+  "BuyDmgPvp01Enabled": false,
+  "BuyPrcB00Enabled": false
+}
