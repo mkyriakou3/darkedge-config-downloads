@@ -168,6 +168,30 @@
     {
       "Name": "ship_venom",
       "IsEnabled": false
+    },
+    {
+      "Name": "ship_goliath-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_retiarus-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_basilisk",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_spectrum-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_hecate-plus",
+      "IsEnabled": false
+    },
+    {
+      "Name": "ship_hammerclaw",
+      "IsEnabled": false
     }
   ]
 }

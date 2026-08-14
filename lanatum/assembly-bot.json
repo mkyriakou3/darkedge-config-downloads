@@ -14,7 +14,7 @@
     },
     {
       "IsLimitedTime": true,
-      "RecipeLootId": "recipe_blueprint-apocalypse-booty-key",
+      "RecipeLootId": "recipe_blueprint-agate-asimov-citadel-plus",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -24,8 +24,162 @@
       "BuildOnlyWhenNo_RSB_LaserAmmo": false
     },
     {
-      "IsLimitedTime": false,
-      "RecipeLootId": "recipe_blueprint-astral-cpu",
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-asimov-zephyr",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-brb-2",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-dmg-vp01",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-evocation-chip-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-ggeu-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-hp-mtch01",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-hp-sol01",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-shd-sl01",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-tyrannos-disruptor",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-tyrannos-g-champion",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-tyrannos-sentinel",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-tyrannos-solace-plus",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-tyrannos-spectrum",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-agate-unstable-shard-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-apocalypse-booty-key",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -79,6 +233,17 @@
       "BuildOnlyWhenNo_RSB_LaserAmmo": false
     },
     {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-booty-key-empyrian-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
       "IsLimitedTime": false,
       "RecipeLootId": "recipe_blueprint-booty-key-silver",
       "ShouldBuild": false,
@@ -91,7 +256,139 @@
     },
     {
       "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chaos-alien-cpu-common",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chaos-alien-cpu-cubikon",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chaos-alien-cpu-legendary",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chaos-alien-cpu-rare",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chromin-berserker",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chromin-mindfire-cerebrum",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chromin-orcus-ullrin",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chromin-seprom",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chromin-solaris-ullrin",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chromin-spc-spe01",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-chromin-venom-ullrin",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-cyborg-psyche",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-dmg-xt10-empyrian",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -123,8 +420,8 @@
       "BuildOnlyWhenNo_RSB_LaserAmmo": false
     },
     {
-      "IsLimitedTime": false,
-      "RecipeLootId": "recipe_blueprint-eternal-cpu",
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-extra-energy-empyrian-limited",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -136,6 +433,17 @@
     {
       "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-extra-energy-valentine",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-fwx-com-empyrian",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -212,6 +520,17 @@
     },
     {
       "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-hp-xt10-empyrian-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-hp-xv01",
       "ShouldBuild": false,
       "Limit": 0,
@@ -233,8 +552,85 @@
       "BuildOnlyWhenNo_RSB_LaserAmmo": false
     },
     {
-      "IsLimitedTime": false,
-      "RecipeLootId": "recipe_blueprint-immunizer-cpu",
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-hstrm-01-empyrian",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-hybrid-processor-empyrian-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-indra-cyborg",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-indra-goliath-plus",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-indra-paladin",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-indra-solaris-plus",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-indra-spectrum-plus",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-indra-venom",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -246,6 +642,61 @@
     {
       "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-job-100-10k-valentine",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-lf-4-hp",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-lf-4-md",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-lf-4-pd",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-micro-trans-empyrian-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-npc-nuke-empyrian",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -268,6 +719,28 @@
     {
       "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-orcus-psyche",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-palladium-empyrian-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-polychromium-empyrian-limited",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -311,6 +784,17 @@
     },
     {
       "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-prismatium-empyrian-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-pusat-plus-psyche",
       "ShouldBuild": false,
       "Limit": 0,
@@ -344,6 +828,17 @@
     },
     {
       "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-salvage-core-empyrian-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-season-citadel-plus-viking",
       "ShouldBuild": false,
       "Limit": 0,
@@ -367,6 +862,17 @@
     {
       "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-season-hp-xsp01",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-season-hyperion-cerevisia",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -421,6 +927,17 @@
     },
     {
       "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-season-solace-plus-striker",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-season-spc-xsp01",
       "ShouldBuild": false,
       "Limit": 0,
@@ -433,6 +950,28 @@
     {
       "IsLimitedTime": false,
       "RecipeLootId": "recipe_blueprint-seprom-blacklight",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-seprom-empyrian-limited",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-shd-xt10-empyrian-limited",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -486,6 +1025,28 @@
       "BuildOnlyWhenNo_RSB_LaserAmmo": false
     },
     {
+      "IsLimitedTime": false,
+      "RecipeLootId": "recipe_blueprint-spartan",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-spc-xt10-empyrian",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
       "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-spc-xv01",
       "ShouldBuild": false,
@@ -499,6 +1060,17 @@
     {
       "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-spc-xv02",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": false,
+      "RecipeLootId": "recipe_blueprint-spc-zpve",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,
@@ -576,6 +1148,17 @@
     {
       "IsLimitedTime": true,
       "RecipeLootId": "recipe_blueprint-vb-142-10k",
+      "ShouldBuild": false,
+      "Limit": 0,
+      "BuildLimit": 0,
+      "BuildOnlyWhenNoSepromInCargo": false,
+      "BuildOnlyWhenNoEnergyLeaches": false,
+      "BuildOnlyWhenNo_ABL_LaserAmmo": false,
+      "BuildOnlyWhenNo_RSB_LaserAmmo": false
+    },
+    {
+      "IsLimitedTime": true,
+      "RecipeLootId": "recipe_blueprint-wiz-x-empyrian-limited",
       "ShouldBuild": false,
       "Limit": 0,
       "BuildLimit": 0,

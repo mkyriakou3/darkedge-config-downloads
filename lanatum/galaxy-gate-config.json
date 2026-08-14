@@ -31,12 +31,6 @@
       "JumpOutAtWave": 0
     },
     {
-      "SavedMapId": 74,
-      "JumpInto": false,
-      "Priority": 0,
-      "JumpOutAtWave": 0
-    },
-    {
       "SavedMapId": 55,
       "JumpInto": false,
       "Priority": 0,
@@ -44,6 +38,12 @@
     },
     {
       "SavedMapId": 70,
+      "JumpInto": false,
+      "Priority": 0,
+      "JumpOutAtWave": 0
+    },
+    {
+      "SavedMapId": 74,
       "JumpInto": false,
       "Priority": 0,
       "JumpOutAtWave": 0

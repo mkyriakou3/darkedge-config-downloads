@@ -23,14 +23,14 @@
       "Priority": 5
     },
     {
-      "Map": 5,
-      "IsEnabled": true,
-      "Priority": 1
-    },
-    {
       "Map": 6,
       "IsEnabled": true,
       "Priority": 2
+    },
+    {
+      "Map": 5,
+      "IsEnabled": true,
+      "Priority": 1
     },
     {
       "Map": 7,
@@ -41,26 +41,6 @@
       "Map": 8,
       "IsEnabled": true,
       "Priority": 4
-    },
-    {
-      "Map": 16,
-      "IsEnabled": true,
-      "Priority": 7
-    },
-    {
-      "Map": 15,
-      "IsEnabled": true,
-      "Priority": 8
-    },
-    {
-      "Map": 14,
-      "IsEnabled": true,
-      "Priority": 9
-    },
-    {
-      "Map": 13,
-      "IsEnabled": true,
-      "Priority": 10
     },
     {
       "Map": 1,
@@ -153,6 +133,51 @@
       "Priority": 0
     },
     {
+      "Map": 100,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 101,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 102,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 103,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 104,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 105,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 106,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 107,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
+      "Map": 108,
+      "IsEnabled": false,
+      "Priority": 0
+    },
+    {
       "Map": 25,
       "IsEnabled": false,
       "Priority": 0
@@ -168,9 +193,19 @@
       "Priority": 0
     },
     {
+      "Map": 16,
+      "IsEnabled": true,
+      "Priority": 7
+    },
+    {
       "Map": 24,
       "IsEnabled": false,
       "Priority": 0
+    },
+    {
+      "Map": 15,
+      "IsEnabled": true,
+      "Priority": 8
     },
     {
       "Map": 23,
@@ -178,9 +213,19 @@
       "Priority": 0
     },
     {
+      "Map": 14,
+      "IsEnabled": true,
+      "Priority": 9
+    },
+    {
       "Map": 21,
       "IsEnabled": false,
       "Priority": 0
+    },
+    {
+      "Map": 13,
+      "IsEnabled": true,
+      "Priority": 10
     },
     {
       "Map": 22,
@@ -190,34 +235,34 @@
   ],
   "MapCycle": [
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 5
+      "Map": 5
     },
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 6
+      "Map": 6
     },
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 7
+      "Map": 7
     },
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 8
+      "Map": 8
     },
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 34
+      "Map": 34
     },
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 35
+      "Map": 35
     },
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 16
+      "Map": 16
     },
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 15
+      "Map": 15
     },
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 14
+      "Map": 14
     },
     {
-      "\u202E\u206C\u206C\u200C\u200C\u206B\u200C\u200D\u200C\u200C\u206C\u202C\u206B\u206F\u206F\u202B\u202B\u206C\u206B\u202A\u202C\u200D\u202A\u200D\u206E\u200B\u206C\u202B\u200D\u202C\u202A\u206D\u200F\u202A\u206F\u206E\u200D\u206D\u206D\u202D\u202E": 13
+      "Map": 13
     }
   ]
 }

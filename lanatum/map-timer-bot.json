@@ -15,13 +15,13 @@
     },
     {
       "Map": 3,
-      "IsEnabled": false,
+      "IsEnabled": true,
       "SecondsBeforeSwitch": 180,
       "SwitchToMap": 4
     },
     {
       "Map": 4,
-      "IsEnabled": false,
+      "IsEnabled": true,
       "SecondsBeforeSwitch": 600,
       "SwitchToMap": 3
     },
@@ -218,16 +218,58 @@
       "SwitchToMap": 1
     },
     {
+      "Map": 100,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 101,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
       "Map": 102,
-      "IsEnabled": true,
-      "SecondsBeforeSwitch": 180,
-      "SwitchToMap": 4
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
     },
     {
       "Map": 103,
-      "IsEnabled": true,
-      "SecondsBeforeSwitch": 600,
-      "SwitchToMap": 3
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 104,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 105,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 106,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 107,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
+    },
+    {
+      "Map": 108,
+      "IsEnabled": false,
+      "SecondsBeforeSwitch": 60,
+      "SwitchToMap": 1
     }
   ]
 }

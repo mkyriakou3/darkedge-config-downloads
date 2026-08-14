@@ -1,5 +1,6 @@
 {
   "IsEnabled": false,
+  "EnableCraftGGEUWhenLow": false,
   "SingleGateConfigs": [
     {
       "Id": 2,

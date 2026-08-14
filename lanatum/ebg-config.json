@@ -1,22 +1,24 @@
 {
   "JumpOutAtWave": 0,
   "SuicideWaveNumber": 11,
+  "IsSuicideInRadiationZoneEnabled": false,
   "PreferredMapQuadrant": 0,
   "UseEnergyLeach": false,
   "WaveToRepeatEnergyLeachAt": 0,
   "DisableEnergLeachFirstWave": true,
   "AllowRefreshInsideGate": false,
+  "EnableCraftKeysWhenLow": false,
   "EbgBoosterConfigs": [
+    {
+      "BoosterType": 5,
+      "Priority": 0
+    },
     {
       "BoosterType": 0,
       "Priority": 0
     },
     {
-      "BoosterType": 4,
-      "Priority": 0
-    },
-    {
-      "BoosterType": 5,
+      "BoosterType": 7,
       "Priority": 0
     },
     {
@@ -24,7 +26,7 @@
       "Priority": 0
     },
     {
-      "BoosterType": 7,
+      "BoosterType": 4,
       "Priority": 0
     },
     {

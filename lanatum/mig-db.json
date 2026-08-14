@@ -1,4 +1,5 @@
 {
   "BoxCollectorWildcardMigrationStatus": "4",
-  "NpcNameFixStatus": "4"
+  "NpcNameFixStatus": "4",
+  "SafetyFinderMigrationStatus": "2"
 }
