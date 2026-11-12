@@ -1,0 +1,9 @@
+{
+  "UseIsh": false,
+  "UseEmp": false,
+  "UseJamxOnTargetPrismaticShield": false,
+  "UseEmpOnDrawfireAffliction": false,
+  "NegateDrawfire": true,
+  "NegateDisruptorRedirect": true,
+  "NegateBerserkerRevenge": true
+}

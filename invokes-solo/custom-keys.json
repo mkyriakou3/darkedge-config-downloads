@@ -1,0 +1,33 @@
+{
+  "IsEnabled": true,
+  "___CustomKeyConfigs": [
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "tech_energy-leech",
+      "IsEnabled": true,
+      "MenuItemId": "tech_energy-leech",
+      "PressEveryMs": 5500,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": null,
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false,
+      "UseOnlyInsidePreferredRegion": false,
+      "UseOnlyWhenShootingPlayer": false
+    },
+    {
+      "CreatedAt": "0001-01-01T00:00:00",
+      "Name": "",
+      "IsEnabled": false,
+      "MenuItemId": "",
+      "PressEveryMs": 300,
+      "WhenHeroHpPercentageBelow": 101,
+      "WhenHeroShieldPercentageBelow": 101,
+      "WhenPointingAtCharacterSubname": "Boss",
+      "UseOnlyWhenUnderAttack": false,
+      "UseOnlyWhenLeachIsActive": false,
+      "UseOnlyInsidePreferredRegion": false,
+      "UseOnlyWhenShootingPlayer": false
+    }
+  ]
+}
