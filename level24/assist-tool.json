@@ -1,0 +1,11 @@
+{
+  "IsEnabled": false,
+  "AutolockPlayerKey": null,
+  "MainPlayerLaserAmmo": -1,
+  "OnlyLockPlayer": false,
+  "UseRsbOnPlayers": false,
+  "AutolockNpcKey": null,
+  "AutolockPetKey": null,
+  "AutolockHeroPetKey": null,
+  "BuyCloakKey": null
+}
